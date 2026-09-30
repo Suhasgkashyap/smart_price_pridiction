@@ -1,0 +1,85 @@
+{
+  "best_model": "Gradient Boosting Regressor",
+  "benchmark_results": {
+    "Linear Regression": {
+      "mae": 2179400.77,
+      "mse": 12062241205087.54,
+      "rmse": 3473073.74,
+      "r2_score": 0.9095,
+      "description": "Linear Regression trained on 960 property records"
+    },
+    "Random Forest Regressor": {
+      "mae": 1583512.16,
+      "mse": 6968391127862.97,
+      "rmse": 2639771.04,
+      "r2_score": 0.9477,
+      "description": "Random Forest Regressor trained on 960 property records"
+    },
+    "Gradient Boosting Regressor": {
+      "mae": 1280283.23,
+      "mse": 4314976899768.36,
+      "rmse": 2077252.25,
+      "r2_score": 0.9676,
+      "description": "Gradient Boosting Regressor trained on 960 property records"
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "area",
+      "importance": 77.92
+    },
+    {
+      "feature": "Loc: Hubli",
+      "importance": 3.84
+    },
+    {
+      "feature": "Loc: Bengaluru",
+      "importance": 3.73
+    },
+    {
+      "feature": "Loc: Pune",
+      "importance": 1.96
+    },
+    {
+      "feature": "Loc: Shivamogga",
+      "importance": 1.94
+    },
+    {
+      "feature": "property_age",
+      "importance": 1.63
+    },
+    {
+      "feature": "Loc: Chennai",
+      "importance": 1.32
+    },
+    {
+      "feature": "Type: Apartment",
+      "importance": 1.21
+    },
+    {
+      "feature": "Furn: Fully-Furnished",
+      "importance": 1.14
+    },
+    {
+      "feature": "Type: Independent House",
+      "importance": 0.9
+    }
+  ],
+  "dataset_summary": {
+    "total_records": 1200,
+    "train_size": 960,
+    "test_size": 240,
+    "features": [
+      "area",
+      "bedrooms",
+      "bathrooms",
+      "property_age",
+      "parking",
+      "floors",
+      "location",
+      "furnishing_status",
+      "property_type"
+    ],
+    "target": "price"
+  }
+}

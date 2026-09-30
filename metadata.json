@@ -1,0 +1,6 @@
+{
+  "name": "Smart House Price Predictor",
+  "description": "End-to-end Machine Learning House Price Prediction System with multi-model regression, EDA analytics, real-time valuation, and property comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

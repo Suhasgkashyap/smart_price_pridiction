@@ -1,0 +1,1201 @@
+location,area,bedrooms,bathrooms,property_age,parking,floors,furnishing_status,property_type,price
+Bengaluru,1100,2,1,13,0,10,Semi-Furnished,Apartment,6000000
+Mangalore,1150,3,4,11,1,1,Semi-Furnished,Independent House,6470000
+Shivamogga,1400,4,4,5,1,2,Unfurnished,Independent House,5070000
+Hyderabad,2750,4,5,3,2,1,Fully-Furnished,Independent House,22540000
+Hyderabad,2550,2,3,4,2,1,Unfurnished,Independent House,18500000
+Chennai,1850,3,3,4,2,3,Fully-Furnished,Independent House,16440000
+Mysore,1600,4,4,5,1,3,Semi-Furnished,Independent House,9400000
+Mangalore,4400,5,5,2,3,1,Fully-Furnished,Villa,37920000
+Chennai,850,1,2,9,1,15,Fully-Furnished,Apartment,5400000
+Mysore,1250,2,1,3,0,3,Semi-Furnished,Independent House,6450000
+Chennai,3100,4,5,12,2,3,Semi-Furnished,Independent House,20540000
+Chennai,1900,4,4,21,1,9,Unfurnished,Apartment,10030000
+Mangalore,1950,3,4,18,2,8,Unfurnished,Apartment,6810000
+Hubli,1050,3,2,2,1,14,Unfurnished,Apartment,3910000
+Mysore,1450,3,2,5,2,4,Fully-Furnished,Apartment,7710000
+Hubli,1800,2,2,17,2,2,Unfurnished,Apartment,4770000
+Mangalore,1100,2,1,2,0,2,Unfurnished,Independent House,5390000
+Chennai,850,1,2,8,1,13,Semi-Furnished,Apartment,4640000
+Pune,1350,4,3,11,0,1,Semi-Furnished,Apartment,8860000
+Bengaluru,950,3,2,7,1,8,Unfurnished,Apartment,6280000
+Bengaluru,2350,1,1,18,1,3,Semi-Furnished,Apartment,14040000
+Pune,2450,3,3,5,3,2,Semi-Furnished,Villa,25790000
+Chennai,1150,1,2,13,0,12,Semi-Furnished,Apartment,5890000
+Mysore,1500,2,1,10,1,7,Unfurnished,Apartment,6200000
+Shivamogga,1950,4,5,9,2,1,Fully-Furnished,Independent House,10020000
+Pune,1750,3,3,18,1,1,Semi-Furnished,Apartment,10420000
+Bengaluru,1000,2,1,19,0,15,Unfurnished,Apartment,5070000
+Hubli,3150,4,3,11,2,3,Unfurnished,Independent House,12580000
+Bengaluru,4200,4,4,5,2,3,Semi-Furnished,Villa,42540000
+Hubli,1600,2,1,11,2,1,Unfurnished,Independent House,5320000
+Hubli,1400,4,4,9,1,2,Fully-Furnished,Apartment,6040000
+Hyderabad,1400,3,2,5,1,2,Unfurnished,Independent House,9550000
+Hyderabad,4650,5,6,13,2,1,Unfurnished,Villa,38530000
+Hyderabad,3200,4,4,3,2,2,Unfurnished,Villa,28770000
+Chennai,2050,2,1,1,1,7,Semi-Furnished,Apartment,12010000
+Hubli,1500,4,5,6,1,2,Semi-Furnished,Apartment,5210000
+Hubli,1650,2,3,14,2,10,Fully-Furnished,Apartment,5670000
+Mangalore,1850,1,2,18,1,6,Semi-Furnished,Apartment,6910000
+Hyderabad,2450,2,3,17,2,3,Semi-Furnished,Independent House,15600000
+Mysore,1800,3,4,13,1,10,Fully-Furnished,Apartment,7930000
+Shivamogga,1000,3,4,11,1,8,Semi-Furnished,Apartment,3790000
+Mysore,1650,4,4,3,1,3,Semi-Furnished,Independent House,8150000
+Shivamogga,2350,3,2,8,1,12,Fully-Furnished,Apartment,9160000
+Mysore,1100,2,2,4,1,1,Fully-Furnished,Independent House,6130000
+Chennai,1450,3,4,10,2,10,Fully-Furnished,Apartment,10870000
+Chennai,4200,5,5,5,2,3,Semi-Furnished,Villa,43050000
+Mangalore,750,2,1,5,1,15,Fully-Furnished,Apartment,3350000
+Pune,2550,2,2,7,2,2,Unfurnished,Independent House,16230000
+Shivamogga,4250,5,5,0,3,2,Semi-Furnished,Villa,29270000
+Pune,2600,4,3,8,2,2,Semi-Furnished,Independent House,17420000
+Pune,2850,3,4,9,2,3,Fully-Furnished,Independent House,24360000
+Pune,1450,1,1,6,1,8,Semi-Furnished,Apartment,9060000
+Hubli,2800,3,2,8,1,2,Unfurnished,Independent House,10940000
+Shivamogga,3050,3,2,10,1,1,Semi-Furnished,Independent House,13430000
+Mangalore,1050,2,1,10,0,13,Unfurnished,Apartment,4430000
+Shivamogga,3650,5,5,19,2,6,Fully-Furnished,Penthouse,22800000
+Bengaluru,1700,4,3,14,1,2,Fully-Furnished,Independent House,14210000
+Hyderabad,1350,3,2,7,1,11,Semi-Furnished,Apartment,8370000
+Hubli,3000,4,4,7,2,2,Unfurnished,Independent House,12260000
+Chennai,1450,3,4,6,1,8,Semi-Furnished,Apartment,8360000
+Hubli,2150,4,4,9,1,2,Unfurnished,Apartment,7210000
+Mangalore,2450,4,4,14,1,2,Unfurnished,Independent House,11040000
+Hyderabad,1550,3,4,9,2,12,Semi-Furnished,Apartment,8750000
+Bengaluru,1750,4,5,4,1,3,Semi-Furnished,Independent House,14710000
+Hubli,4350,4,3,6,3,4,Fully-Furnished,Penthouse,27310000
+Shivamogga,2550,3,4,16,2,1,Unfurnished,Independent House,9720000
+Chennai,2300,2,2,3,1,7,Semi-Furnished,Apartment,13340000
+Shivamogga,2050,2,1,23,1,9,Semi-Furnished,Apartment,6600000
+Mangalore,3100,5,5,16,3,2,Fully-Furnished,Villa,23470000
+Bengaluru,2700,4,4,11,2,11,Unfurnished,Penthouse,26100000
+Pune,1650,2,1,4,2,12,Semi-Furnished,Apartment,9490000
+Hubli,3850,4,4,3,2,3,Unfurnished,Villa,21710000
+Bengaluru,2000,3,4,15,2,8,Unfurnished,Apartment,11890000
+Pune,3500,5,5,2,2,17,Fully-Furnished,Penthouse,39720000
+Bengaluru,1800,3,4,19,2,10,Unfurnished,Apartment,10850000
+Chennai,2500,6,6,11,3,1,Semi-Furnished,Villa,22300000
+Bengaluru,2950,5,5,11,3,3,Unfurnished,Villa,27250000
+Hyderabad,2000,3,2,11,2,7,Unfurnished,Apartment,9610000
+Chennai,2650,3,3,9,2,2,Fully-Furnished,Independent House,20630000
+Mangalore,1750,2,3,7,1,1,Semi-Furnished,Independent House,10820000
+Mysore,2600,4,5,5,2,2,Unfurnished,Independent House,12400000
+Mangalore,3500,4,3,5,3,14,Fully-Furnished,Penthouse,26830000
+Hubli,3700,5,4,7,3,2,Semi-Furnished,Villa,20250000
+Chennai,4450,4,5,7,3,5,Semi-Furnished,Penthouse,49180000
+Pune,1800,4,3,8,1,3,Fully-Furnished,Apartment,13920000
+Bengaluru,3300,6,6,1,2,2,Fully-Furnished,Villa,44950000
+Hubli,1850,4,3,16,2,6,Fully-Furnished,Apartment,7250000
+Shivamogga,1550,3,2,13,2,1,Fully-Furnished,Independent House,7240000
+Mysore,2950,4,4,14,2,2,Semi-Furnished,Independent House,14080000
+Pune,2750,3,2,2,2,3,Fully-Furnished,Independent House,23540000
+Mysore,1750,3,3,11,2,15,Semi-Furnished,Apartment,7580000
+Chennai,4750,4,5,20,3,18,Semi-Furnished,Penthouse,39390000
+Chennai,1300,2,3,5,1,1,Fully-Furnished,Apartment,8550000
+Shivamogga,4200,4,3,10,3,1,Fully-Furnished,Villa,23140000
+Mysore,2950,4,4,14,1,3,Semi-Furnished,Independent House,14650000
+Hubli,1350,2,1,14,1,9,Fully-Furnished,Apartment,5440000
+Hubli,4800,4,5,16,2,2,Unfurnished,Villa,19930000
+Pune,4250,4,3,14,2,12,Fully-Furnished,Penthouse,40060000
+Hubli,2800,3,2,11,2,1,Fully-Furnished,Independent House,13790000
+Mangalore,2400,4,5,5,2,1,Unfurnished,Independent House,10920000
+Chennai,1050,3,2,7,1,11,Fully-Furnished,Apartment,7480000
+Mysore,3950,5,6,7,3,1,Fully-Furnished,Villa,28760000
+Mangalore,2250,4,5,17,3,1,Semi-Furnished,Villa,14390000
+Chennai,1000,4,5,21,0,13,Semi-Furnished,Apartment,4960000
+Mangalore,1950,2,3,4,1,6,Unfurnished,Apartment,9140000
+Hubli,2400,4,5,5,2,1,Fully-Furnished,Villa,15430000
+Hyderabad,2700,4,3,4,2,1,Fully-Furnished,Villa,25960000
+Bengaluru,2000,3,4,3,1,10,Unfurnished,Apartment,14620000
+Hubli,2300,1,1,16,2,11,Unfurnished,Apartment,6840000
+Bengaluru,2950,4,3,3,3,2,Fully-Furnished,Villa,36090000
+Pune,1850,4,5,16,1,7,Semi-Furnished,Apartment,12150000
+Chennai,1900,2,2,6,2,6,Unfurnished,Apartment,11300000
+Bengaluru,2250,3,4,13,2,3,Unfurnished,Villa,20770000
+Hyderabad,1950,4,5,2,2,3,Semi-Furnished,Independent House,14740000
+Mangalore,1450,1,1,15,2,2,Semi-Furnished,Apartment,6460000
+Shivamogga,2450,3,2,4,2,2,Semi-Furnished,Independent House,10230000
+Pune,1900,1,1,13,1,7,Semi-Furnished,Apartment,10770000
+Hubli,2700,4,5,2,1,1,Unfurnished,Independent House,11270000
+Bengaluru,1800,3,4,7,2,4,Fully-Furnished,Apartment,13120000
+Hubli,2300,4,5,5,1,2,Fully-Furnished,Independent House,9560000
+Mangalore,4250,4,4,3,3,3,Semi-Furnished,Villa,28660000
+Mangalore,2850,3,2,7,1,2,Unfurnished,Independent House,13390000
+Hyderabad,2300,4,4,3,1,2,Unfurnished,Independent House,16840000
+Hyderabad,2100,2,2,10,1,7,Semi-Furnished,Apartment,12540000
+Mysore,1750,3,4,4,2,6,Fully-Furnished,Apartment,10060000
+Mysore,900,2,1,10,0,3,Fully-Furnished,Apartment,4090000
+Chennai,2950,4,4,16,2,1,Semi-Furnished,Independent House,18310000
+Hubli,3750,4,5,2,3,2,Unfurnished,Villa,17550000
+Bengaluru,3150,4,5,10,2,2,Fully-Furnished,Independent House,30570000
+Shivamogga,2050,4,3,6,2,9,Unfurnished,Apartment,7810000
+Hyderabad,2400,4,3,5,3,18,Fully-Furnished,Penthouse,25610000
+Hyderabad,3150,4,5,10,3,1,Semi-Furnished,Villa,26040000
+Hubli,2100,3,2,6,1,15,Semi-Furnished,Apartment,7090000
+Pune,1850,1,1,9,2,14,Unfurnished,Apartment,11170000
+Bengaluru,1950,3,2,6,1,1,Semi-Furnished,Independent House,17850000
+Mangalore,2600,4,3,8,2,25,Semi-Furnished,Penthouse,20930000
+Pune,950,4,5,14,0,12,Semi-Furnished,Apartment,5060000
+Mangalore,3750,5,4,9,3,19,Unfurnished,Penthouse,25370000
+Chennai,1100,3,4,9,0,14,Unfurnished,Apartment,6280000
+Hubli,1450,2,3,19,1,5,Unfurnished,Apartment,4300000
+Mysore,2250,4,4,17,2,2,Unfurnished,Villa,11590000
+Pune,3150,3,3,18,3,8,Unfurnished,Penthouse,24190000
+Chennai,1350,4,4,10,0,1,Semi-Furnished,Independent House,8700000
+Pune,1150,2,1,2,1,11,Fully-Furnished,Apartment,7990000
+Chennai,1100,4,5,5,0,2,Semi-Furnished,Independent House,7260000
+Pune,1800,3,3,2,1,7,Semi-Furnished,Apartment,10700000
+Hyderabad,650,1,1,5,0,13,Fully-Furnished,Apartment,4380000
+Shivamogga,1200,4,3,15,1,12,Semi-Furnished,Apartment,4370000
+Bengaluru,3050,4,4,4,1,1,Semi-Furnished,Independent House,29240000
+Chennai,1950,2,2,6,1,14,Fully-Furnished,Apartment,12450000
+Hyderabad,1350,3,3,6,0,8,Fully-Furnished,Apartment,9200000
+Hubli,4150,3,3,10,2,3,Semi-Furnished,Villa,19340000
+Hubli,1700,3,2,12,2,8,Unfurnished,Apartment,5680000
+Pune,2350,1,1,11,2,6,Fully-Furnished,Apartment,17330000
+Shivamogga,1700,3,2,3,1,13,Fully-Furnished,Apartment,6910000
+Shivamogga,2500,3,3,7,1,3,Unfurnished,Independent House,9950000
+Hubli,800,1,1,8,1,15,Fully-Furnished,Apartment,2760000
+Chennai,1700,4,4,4,1,14,Unfurnished,Apartment,10190000
+Chennai,4300,4,5,6,2,21,Fully-Furnished,Penthouse,45400000
+Mysore,3000,3,3,8,1,1,Unfurnished,Independent House,12940000
+Hyderabad,1850,4,3,10,1,1,Semi-Furnished,Independent House,12660000
+Chennai,2700,4,3,3,2,3,Unfurnished,Independent House,19020000
+Hyderabad,2100,3,4,10,1,7,Fully-Furnished,Apartment,14590000
+Bengaluru,1700,3,3,19,1,2,Fully-Furnished,Independent House,15560000
+Hubli,2300,2,1,10,1,9,Fully-Furnished,Apartment,8000000
+Mysore,1700,3,3,15,1,14,Unfurnished,Apartment,5770000
+Hubli,2700,4,5,11,2,3,Fully-Furnished,Independent House,12250000
+Chennai,2050,3,3,8,1,3,Semi-Furnished,Apartment,12360000
+Hyderabad,1750,3,4,22,2,2,Unfurnished,Independent House,10570000
+Bengaluru,1450,2,2,5,1,1,Semi-Furnished,Apartment,11690000
+Pune,2150,2,2,19,2,4,Unfurnished,Apartment,11120000
+Chennai,3450,3,3,8,2,1,Fully-Furnished,Villa,32360000
+Chennai,2850,4,4,9,1,2,Unfurnished,Independent House,20880000
+Pune,1350,3,4,4,1,2,Semi-Furnished,Apartment,9260000
+Hubli,3850,6,5,3,2,2,Semi-Furnished,Villa,22790000
+Hyderabad,1500,4,4,8,1,1,Unfurnished,Independent House,10420000
+Chennai,2200,2,2,18,2,3,Semi-Furnished,Apartment,13980000
+Hubli,2150,4,5,8,2,2,Unfurnished,Independent House,8210000
+Pune,2750,2,3,8,1,3,Unfurnished,Independent House,18570000
+Pune,1800,1,2,19,1,4,Unfurnished,Apartment,8940000
+Pune,1950,4,4,16,1,3,Unfurnished,Independent House,12510000
+Chennai,1750,3,3,18,2,3,Semi-Furnished,Independent House,12560000
+Hubli,1500,3,3,9,1,2,Semi-Furnished,Independent House,6560000
+Chennai,1250,4,4,5,1,15,Semi-Furnished,Apartment,8960000
+Mysore,1150,4,3,6,1,11,Semi-Furnished,Apartment,5240000
+Hubli,4000,4,3,10,2,11,Unfurnished,Penthouse,20490000
+Mangalore,1350,4,4,3,0,1,Fully-Furnished,Apartment,7830000
+Chennai,950,2,2,5,0,15,Unfurnished,Apartment,5340000
+Shivamogga,2500,4,3,23,3,2,Unfurnished,Villa,12230000
+Hubli,2000,6,7,3,3,2,Semi-Furnished,Villa,13170000
+Chennai,2400,6,6,5,2,2,Unfurnished,Villa,22590000
+Mysore,1200,2,3,11,0,3,Fully-Furnished,Apartment,6110000
+Pune,1250,2,1,21,1,2,Unfurnished,Independent House,6300000
+Chennai,3100,3,4,12,1,2,Fully-Furnished,Independent House,23020000
+Bengaluru,900,4,5,18,1,12,Unfurnished,Apartment,5640000
+Hyderabad,1550,3,3,3,2,2,Fully-Furnished,Independent House,13000000
+Mangalore,4000,6,5,9,3,1,Fully-Furnished,Villa,29090000
+Mangalore,1400,3,4,7,1,3,Fully-Furnished,Independent House,8900000
+Chennai,3350,6,6,8,2,3,Semi-Furnished,Villa,32560000
+Shivamogga,2050,4,3,10,1,7,Semi-Furnished,Apartment,7800000
+Shivamogga,2350,5,4,5,2,8,Fully-Furnished,Penthouse,17730000
+Pune,2200,3,3,6,1,11,Semi-Furnished,Apartment,13480000
+Pune,2600,3,2,13,2,2,Fully-Furnished,Independent House,21630000
+Pune,2700,4,3,5,2,1,Fully-Furnished,Villa,28960000
+Shivamogga,750,1,1,7,0,4,Fully-Furnished,Apartment,2640000
+Mangalore,2700,3,4,23,1,3,Fully-Furnished,Independent House,13600000
+Hyderabad,2150,4,5,4,2,5,Unfurnished,Apartment,12870000
+Mysore,1950,4,3,21,2,3,Semi-Furnished,Independent House,9190000
+Hubli,1950,3,2,16,2,14,Fully-Furnished,Apartment,6310000
+Shivamogga,3100,4,5,3,1,2,Unfurnished,Independent House,12260000
+Chennai,2250,4,3,5,2,1,Unfurnished,Villa,20560000
+Mangalore,2150,2,2,20,1,4,Unfurnished,Apartment,8450000
+Chennai,4050,4,4,18,3,2,Semi-Furnished,Villa,34530000
+Hubli,1500,3,3,3,2,13,Semi-Furnished,Apartment,6150000
+Pune,2150,4,3,1,2,5,Unfurnished,Apartment,12210000
+Mangalore,2450,3,3,13,2,3,Fully-Furnished,Independent House,15130000
+Hyderabad,1900,3,2,18,1,9,Unfurnished,Apartment,9520000
+Shivamogga,3200,4,3,12,2,1,Fully-Furnished,Villa,17760000
+Chennai,1100,4,5,7,0,3,Fully-Furnished,Independent House,8870000
+Shivamogga,2550,4,3,3,1,3,Unfurnished,Independent House,10040000
+Hubli,2800,5,4,6,3,2,Fully-Furnished,Villa,15920000
+Hubli,2850,4,3,7,2,3,Semi-Furnished,Independent House,10250000
+Mysore,2100,4,4,9,1,15,Fully-Furnished,Apartment,10830000
+Chennai,2250,4,4,17,1,3,Semi-Furnished,Apartment,11120000
+Mysore,2550,4,3,5,1,3,Semi-Furnished,Independent House,13980000
+Pune,1350,2,3,13,1,1,Unfurnished,Independent House,8830000
+Hyderabad,2350,4,4,20,2,1,Fully-Furnished,Independent House,16390000
+Chennai,1600,3,3,4,2,2,Fully-Furnished,Apartment,10770000
+Bengaluru,900,4,5,3,1,6,Semi-Furnished,Apartment,5910000
+Hubli,1950,1,1,2,2,8,Fully-Furnished,Apartment,7950000
+Shivamogga,1600,3,4,14,2,1,Semi-Furnished,Apartment,5780000
+Mangalore,1450,4,3,3,2,2,Semi-Furnished,Independent House,7520000
+Hubli,1450,1,1,5,1,12,Fully-Furnished,Apartment,5650000
+Chennai,1150,3,3,15,1,13,Semi-Furnished,Apartment,6480000
+Mysore,1700,4,3,8,1,7,Semi-Furnished,Apartment,7080000
+Chennai,4200,4,4,5,3,15,Unfurnished,Penthouse,42190000
+Mysore,2250,4,5,4,2,3,Unfurnished,Independent House,12410000
+Pune,1350,3,2,5,0,3,Semi-Furnished,Independent House,10440000
+Chennai,2200,4,5,1,2,3,Fully-Furnished,Independent House,20900000
+Bengaluru,3950,4,3,11,2,3,Fully-Furnished,Villa,45250000
+Hyderabad,3300,3,2,5,2,18,Semi-Furnished,Penthouse,31370000
+Mysore,650,1,1,7,0,2,Fully-Furnished,Apartment,2690000
+Chennai,3550,4,4,3,3,2,Unfurnished,Villa,30910000
+Bengaluru,1250,1,2,14,0,9,Unfurnished,Apartment,7180000
+Pune,2800,5,6,4,3,16,Unfurnished,Penthouse,30560000
+Chennai,1900,3,2,5,1,3,Unfurnished,Independent House,13610000
+Hyderabad,1450,2,3,16,2,10,Semi-Furnished,Apartment,8400000
+Hyderabad,1450,2,3,12,2,15,Fully-Furnished,Apartment,9700000
+Hyderabad,1150,2,2,12,1,7,Fully-Furnished,Apartment,6500000
+Mysore,2200,3,4,4,2,1,Unfurnished,Independent House,10350000
+Shivamogga,4850,5,4,4,3,3,Fully-Furnished,Villa,32270000
+Chennai,2100,3,2,2,1,13,Unfurnished,Apartment,11410000
+Hubli,1450,4,4,9,1,10,Unfurnished,Apartment,4330000
+Hyderabad,2650,4,5,4,2,1,Fully-Furnished,Independent House,24690000
+Hubli,2050,4,4,16,2,2,Unfurnished,Villa,9400000
+Hyderabad,3800,5,4,10,2,1,Unfurnished,Villa,30660000
+Mysore,1850,2,3,5,1,3,Semi-Furnished,Apartment,9390000
+Mysore,1350,3,4,6,0,3,Semi-Furnished,Independent House,7000000
+Hubli,1850,2,3,14,1,2,Fully-Furnished,Independent House,8600000
+Hyderabad,1500,3,2,16,1,12,Semi-Furnished,Apartment,8530000
+Bengaluru,3150,5,4,8,3,2,Semi-Furnished,Villa,32940000
+Chennai,4650,3,2,3,3,1,Unfurnished,Villa,43160000
+Chennai,2300,2,3,18,2,3,Semi-Furnished,Apartment,11680000
+Bengaluru,2200,2,1,7,2,12,Fully-Furnished,Apartment,17930000
+Bengaluru,1100,4,3,3,0,3,Fully-Furnished,Independent House,9790000
+Hyderabad,4950,5,6,3,2,1,Semi-Furnished,Villa,43930000
+Bengaluru,2150,2,2,14,1,11,Fully-Furnished,Apartment,14170000
+Shivamogga,1400,3,4,4,1,2,Fully-Furnished,Independent House,7630000
+Bengaluru,2400,3,4,13,3,2,Semi-Furnished,Villa,25480000
+Bengaluru,1700,4,5,5,1,14,Fully-Furnished,Apartment,14770000
+Mangalore,1700,2,1,8,1,1,Semi-Furnished,Independent House,9000000
+Shivamogga,4600,4,4,16,3,15,Fully-Furnished,Penthouse,30070000
+Bengaluru,750,2,1,1,0,13,Semi-Furnished,Apartment,5400000
+Pune,1350,4,5,9,0,5,Unfurnished,Apartment,7420000
+Mangalore,2600,4,4,10,2,13,Fully-Furnished,Penthouse,21300000
+Mangalore,800,1,1,8,0,5,Fully-Furnished,Apartment,4210000
+Bengaluru,850,1,1,8,1,9,Fully-Furnished,Apartment,6930000
+Mysore,1950,2,3,17,1,6,Semi-Furnished,Apartment,7010000
+Bengaluru,2150,2,2,16,1,2,Unfurnished,Independent House,13300000
+Bengaluru,1500,1,1,5,2,6,Semi-Furnished,Apartment,11440000
+Shivamogga,3000,4,3,6,2,3,Semi-Furnished,Independent House,12480000
+Hyderabad,1800,1,1,4,1,7,Unfurnished,Apartment,11000000
+Hubli,1600,1,1,4,2,12,Fully-Furnished,Apartment,5870000
+Chennai,4200,4,3,0,3,4,Unfurnished,Penthouse,41410000
+Shivamogga,2200,5,6,13,2,10,Fully-Furnished,Penthouse,15500000
+Shivamogga,2550,4,3,2,2,20,Semi-Furnished,Penthouse,16300000
+Bengaluru,2150,4,3,10,1,2,Fully-Furnished,Independent House,20880000
+Hubli,4750,5,6,15,3,2,Semi-Furnished,Villa,21990000
+Mangalore,1950,1,1,3,2,8,Semi-Furnished,Apartment,9180000
+Mangalore,1450,1,1,3,2,14,Fully-Furnished,Apartment,7780000
+Hyderabad,1850,2,2,9,2,5,Unfurnished,Apartment,8730000
+Chennai,2250,2,2,3,1,1,Unfurnished,Independent House,14040000
+Mangalore,2050,2,3,11,1,10,Fully-Furnished,Apartment,9820000
+Shivamogga,2700,5,4,3,3,7,Unfurnished,Penthouse,16340000
+Pune,3150,3,3,12,2,2,Unfurnished,Villa,27800000
+Chennai,2100,6,7,5,3,2,Semi-Furnished,Villa,22990000
+Bengaluru,850,2,3,17,0,11,Fully-Furnished,Apartment,6540000
+Hyderabad,2000,2,3,8,2,5,Unfurnished,Apartment,9800000
+Shivamogga,4300,3,3,9,2,1,Unfurnished,Villa,19450000
+Shivamogga,4800,6,6,6,2,1,Unfurnished,Villa,26320000
+Hyderabad,2050,4,5,9,2,2,Fully-Furnished,Villa,19360000
+Bengaluru,1700,1,2,8,2,15,Fully-Furnished,Apartment,11910000
+Mysore,4500,4,3,1,2,1,Fully-Furnished,Villa,38150000
+Hyderabad,2450,4,3,6,2,1,Unfurnished,Independent House,17000000
+Chennai,1450,4,5,17,2,1,Fully-Furnished,Independent House,11090000
+Hubli,1700,3,4,0,2,3,Unfurnished,Independent House,6360000
+Mangalore,1300,4,3,6,0,1,Semi-Furnished,Independent House,7720000
+Bengaluru,4000,4,4,1,2,1,Fully-Furnished,Villa,43550000
+Bengaluru,1200,4,5,7,0,2,Semi-Furnished,Independent House,10860000
+Pune,1450,3,4,13,1,3,Semi-Furnished,Apartment,8220000
+Hubli,1100,1,1,6,1,3,Fully-Furnished,Apartment,3870000
+Bengaluru,2350,3,4,1,1,10,Semi-Furnished,Apartment,15830000
+Mangalore,3250,4,5,5,2,7,Unfurnished,Penthouse,22180000
+Chennai,1250,3,2,5,1,4,Unfurnished,Apartment,6120000
+Hubli,3400,3,3,14,3,19,Fully-Furnished,Penthouse,18870000
+Pune,2150,2,1,7,2,8,Semi-Furnished,Apartment,13270000
+Shivamogga,1850,1,1,11,2,13,Fully-Furnished,Apartment,6600000
+Pune,3250,6,7,16,3,3,Unfurnished,Villa,26310000
+Shivamogga,2950,4,5,21,1,1,Semi-Furnished,Independent House,11150000
+Mangalore,2350,5,4,22,3,1,Fully-Furnished,Villa,14590000
+Hyderabad,4700,3,2,7,3,3,Semi-Furnished,Villa,45670000
+Shivamogga,3850,6,6,3,2,1,Fully-Furnished,Villa,26440000
+Bengaluru,3650,3,3,16,3,17,Semi-Furnished,Penthouse,36760000
+Chennai,1100,2,3,10,1,1,Semi-Furnished,Apartment,7160000
+Mangalore,1450,2,2,1,2,5,Semi-Furnished,Apartment,8020000
+Bengaluru,2750,4,5,7,3,12,Fully-Furnished,Penthouse,35160000
+Mangalore,2200,3,4,8,2,14,Unfurnished,Apartment,9270000
+Hubli,1900,4,5,1,1,1,Unfurnished,Independent House,7230000
+Hyderabad,1650,4,5,7,1,3,Unfurnished,Independent House,10200000
+Chennai,2150,3,4,6,1,14,Semi-Furnished,Apartment,14720000
+Hubli,700,1,1,16,0,11,Unfurnished,Apartment,1810000
+Shivamogga,4900,3,3,18,2,3,Unfurnished,Villa,20700000
+Hubli,2550,3,3,17,2,2,Semi-Furnished,Independent House,8910000
+Pune,1100,3,4,11,1,2,Fully-Furnished,Independent House,7870000
+Hubli,2900,3,4,12,2,1,Unfurnished,Independent House,10560000
+Shivamogga,4400,6,6,11,2,3,Unfurnished,Villa,23650000
+Hubli,3200,3,4,12,2,2,Fully-Furnished,Villa,19090000
+Chennai,4000,6,6,15,2,2,Unfurnished,Villa,32370000
+Mysore,4500,3,2,6,3,17,Semi-Furnished,Penthouse,30660000
+Chennai,3400,6,7,19,2,2,Unfurnished,Villa,27170000
+Pune,1950,3,2,22,2,2,Fully-Furnished,Independent House,16020000
+Mysore,1900,1,1,6,1,6,Fully-Furnished,Apartment,8010000
+Mangalore,2500,4,4,14,2,1,Fully-Furnished,Villa,17640000
+Pune,3150,3,4,4,3,4,Semi-Furnished,Penthouse,36190000
+Shivamogga,2400,3,2,12,2,2,Unfurnished,Independent House,8340000
+Hubli,2050,2,2,8,2,7,Fully-Furnished,Apartment,8890000
+Chennai,950,3,2,4,0,4,Fully-Furnished,Apartment,5780000
+Bengaluru,1750,1,1,16,2,13,Fully-Furnished,Apartment,12810000
+Shivamogga,2450,2,1,12,2,2,Semi-Furnished,Independent House,9150000
+Mysore,1850,1,1,7,1,11,Fully-Furnished,Apartment,8260000
+Mysore,2200,3,4,10,2,2,Unfurnished,Apartment,8770000
+Hubli,4900,4,5,7,2,1,Fully-Furnished,Villa,28320000
+Chennai,650,1,1,18,1,3,Unfurnished,Apartment,3270000
+Bengaluru,3900,5,5,5,2,1,Unfurnished,Villa,43060000
+Hyderabad,2900,3,2,16,2,1,Unfurnished,Villa,21250000
+Hyderabad,4850,4,5,3,3,1,Unfurnished,Villa,42860000
+Hubli,4050,5,5,11,2,1,Unfurnished,Villa,19130000
+Mysore,2200,3,4,12,1,10,Semi-Furnished,Apartment,9960000
+Mysore,2100,4,4,2,2,3,Semi-Furnished,Independent House,10640000
+Mangalore,3900,4,5,9,2,17,Fully-Furnished,Penthouse,33780000
+Pune,2050,3,2,1,1,9,Semi-Furnished,Apartment,15370000
+Bengaluru,1750,3,3,2,1,3,Fully-Furnished,Independent House,16820000
+Bengaluru,2050,3,2,16,2,6,Unfurnished,Apartment,13620000
+Shivamogga,1350,3,4,0,0,13,Fully-Furnished,Apartment,6610000
+Mangalore,2050,3,3,15,1,2,Semi-Furnished,Independent House,10680000
+Chennai,1850,4,3,3,1,1,Semi-Furnished,Independent House,13780000
+Hubli,1850,2,1,17,2,1,Fully-Furnished,Independent House,8060000
+Hubli,1450,4,3,8,1,3,Semi-Furnished,Independent House,5320000
+Bengaluru,3350,6,7,3,3,1,Fully-Furnished,Villa,45650000
+Pune,3400,6,5,12,2,3,Unfurnished,Villa,26160000
+Hyderabad,1900,4,5,13,2,2,Semi-Furnished,Independent House,14770000
+Mysore,1700,4,5,5,2,12,Fully-Furnished,Apartment,9750000
+Mangalore,1900,4,4,18,1,12,Fully-Furnished,Apartment,9680000
+Hyderabad,2650,4,4,10,2,3,Fully-Furnished,Independent House,22920000
+Pune,3550,3,3,3,2,1,Semi-Furnished,Villa,36150000
+Hubli,1400,2,3,14,1,3,Unfurnished,Independent House,4710000
+Mangalore,2250,3,4,14,2,3,Fully-Furnished,Independent House,11640000
+Pune,4700,4,5,2,3,10,Fully-Furnished,Penthouse,64880000
+Chennai,4700,4,5,9,2,3,Unfurnished,Villa,36530000
+Bengaluru,950,3,2,6,1,5,Fully-Furnished,Apartment,6780000
+Hubli,1450,2,1,3,2,10,Unfurnished,Apartment,5150000
+Hubli,2300,3,2,14,2,3,Unfurnished,Independent House,9110000
+Mysore,1550,1,1,4,1,11,Semi-Furnished,Apartment,6380000
+Chennai,4300,3,2,11,3,11,Fully-Furnished,Penthouse,46810000
+Shivamogga,1750,2,2,5,2,1,Fully-Furnished,Independent House,9270000
+Chennai,1700,3,3,9,1,1,Fully-Furnished,Independent House,13790000
+Mangalore,2700,4,3,4,2,3,Unfurnished,Independent House,14530000
+Chennai,1150,2,1,4,1,3,Unfurnished,Independent House,7600000
+Hubli,1400,3,3,6,2,11,Unfurnished,Apartment,4690000
+Bengaluru,2300,2,2,18,1,2,Fully-Furnished,Independent House,17210000
+Chennai,2050,1,1,3,1,3,Fully-Furnished,Apartment,14210000
+Hubli,2550,4,3,9,2,7,Unfurnished,Penthouse,11030000
+Bengaluru,1950,4,4,4,1,3,Unfurnished,Apartment,12450000
+Mangalore,1800,3,2,16,2,11,Fully-Furnished,Apartment,7750000
+Hubli,1900,3,3,6,1,2,Semi-Furnished,Apartment,7210000
+Hyderabad,1750,3,4,10,2,2,Semi-Furnished,Independent House,11300000
+Mangalore,2400,3,3,3,2,2,Semi-Furnished,Independent House,14110000
+Chennai,1450,4,3,15,1,3,Unfurnished,Independent House,8660000
+Bengaluru,2950,4,5,1,2,3,Unfurnished,Independent House,27050000
+Chennai,1400,4,3,17,2,1,Semi-Furnished,Independent House,9170000
+Hyderabad,2450,4,5,4,1,2,Unfurnished,Independent House,15900000
+Mysore,2100,3,2,4,2,1,Unfurnished,Independent House,9320000
+Mangalore,2750,4,4,18,1,1,Fully-Furnished,Independent House,14780000
+Hubli,2750,6,7,4,3,2,Fully-Furnished,Villa,18710000
+Hubli,2200,3,3,6,2,8,Semi-Furnished,Apartment,8460000
+Mysore,1050,3,4,5,0,3,Unfurnished,Apartment,4130000
+Bengaluru,1950,3,4,3,2,2,Unfurnished,Independent House,16270000
+Pune,700,1,2,4,0,15,Fully-Furnished,Apartment,4410000
+Mysore,1950,4,5,1,2,1,Unfurnished,Independent House,10310000
+Chennai,2100,3,2,14,1,10,Fully-Furnished,Apartment,12980000
+Hyderabad,3750,3,2,6,2,7,Unfurnished,Penthouse,30630000
+Pune,3800,4,4,17,2,3,Fully-Furnished,Villa,37570000
+Mysore,3600,3,4,11,3,2,Unfurnished,Villa,21650000
+Chennai,3100,6,7,18,2,2,Unfurnished,Villa,23420000
+Bengaluru,2150,3,3,4,1,10,Fully-Furnished,Apartment,15090000
+Mangalore,1750,3,2,3,2,2,Fully-Furnished,Independent House,10800000
+Hubli,3200,4,4,9,3,9,Semi-Furnished,Penthouse,18310000
+Hubli,2700,4,5,3,1,3,Unfurnished,Independent House,10870000
+Mysore,1500,2,3,10,1,3,Semi-Furnished,Apartment,6770000
+Bengaluru,3400,6,6,2,3,1,Semi-Furnished,Villa,34170000
+Pune,3200,4,5,20,2,9,Fully-Furnished,Penthouse,31030000
+Hubli,2000,3,4,12,1,11,Unfurnished,Apartment,6000000
+Mysore,1100,3,3,11,1,10,Unfurnished,Apartment,4260000
+Bengaluru,3600,6,7,6,3,1,Fully-Furnished,Villa,49710000
+Pune,1600,4,5,3,1,3,Semi-Furnished,Independent House,12090000
+Hubli,4400,6,6,12,3,3,Semi-Furnished,Villa,25310000
+Chennai,2950,4,4,3,1,2,Fully-Furnished,Independent House,26340000
+Mangalore,3200,4,5,9,3,1,Semi-Furnished,Villa,20680000
+Hyderabad,2250,3,3,6,2,3,Fully-Furnished,Apartment,16610000
+Chennai,1550,3,3,4,1,1,Fully-Furnished,Independent House,12800000
+Bengaluru,3950,5,6,0,2,19,Semi-Furnished,Penthouse,50290000
+Hubli,3150,4,4,7,1,1,Fully-Furnished,Independent House,15840000
+Shivamogga,1900,3,3,21,2,2,Fully-Furnished,Independent House,7380000
+Pune,1750,4,4,4,2,1,Semi-Furnished,Independent House,14150000
+Hyderabad,1350,3,4,13,1,14,Semi-Furnished,Apartment,7160000
+Mysore,3950,3,4,5,2,21,Semi-Furnished,Penthouse,29740000
+Mysore,650,1,1,3,1,13,Semi-Furnished,Apartment,2740000
+Shivamogga,1850,1,1,15,2,14,Fully-Furnished,Apartment,6490000
+Hubli,1600,2,2,1,1,6,Fully-Furnished,Apartment,7130000
+Mysore,2900,4,5,8,3,6,Semi-Furnished,Penthouse,21180000
+Mysore,3900,4,4,11,3,1,Unfurnished,Villa,20270000
+Hyderabad,2550,4,5,7,2,2,Fully-Furnished,Independent House,22210000
+Pune,2100,2,3,4,2,12,Fully-Furnished,Apartment,16220000
+Pune,750,1,2,2,1,9,Unfurnished,Apartment,4110000
+Bengaluru,2950,3,2,5,2,2,Fully-Furnished,Independent House,25430000
+Mysore,1800,2,2,8,2,9,Semi-Furnished,Apartment,7380000
+Mysore,2050,4,4,9,2,2,Semi-Furnished,Independent House,11050000
+Chennai,1350,2,2,1,0,6,Semi-Furnished,Apartment,8200000
+Chennai,3400,3,3,14,2,4,Fully-Furnished,Penthouse,33230000
+Pune,900,4,5,7,1,4,Semi-Furnished,Apartment,5400000
+Hubli,1950,2,2,4,1,3,Unfurnished,Apartment,6020000
+Chennai,1700,2,2,1,1,9,Unfurnished,Apartment,8950000
+Hubli,1400,1,1,3,1,8,Unfurnished,Apartment,4250000
+Chennai,3400,3,3,2,2,5,Semi-Furnished,Penthouse,36010000
+Chennai,2200,2,2,15,1,13,Fully-Furnished,Apartment,13260000
+Chennai,2350,2,2,13,1,9,Fully-Furnished,Apartment,16690000
+Hubli,2600,3,4,19,2,12,Semi-Furnished,Penthouse,13150000
+Shivamogga,2650,3,2,11,3,1,Unfurnished,Villa,13700000
+Pune,2000,3,4,14,3,3,Fully-Furnished,Villa,18950000
+Mangalore,800,1,1,18,0,1,Semi-Furnished,Apartment,3350000
+Bengaluru,1050,3,4,13,1,12,Unfurnished,Apartment,5620000
+Mysore,700,1,1,9,1,4,Fully-Furnished,Apartment,2940000
+Chennai,2100,3,2,2,1,8,Semi-Furnished,Apartment,14570000
+Chennai,1750,3,4,4,1,10,Semi-Furnished,Apartment,11850000
+Bengaluru,2200,4,3,9,2,3,Unfurnished,Independent House,16740000
+Hyderabad,1550,1,1,15,1,3,Unfurnished,Apartment,7010000
+Bengaluru,1750,3,4,8,2,1,Semi-Furnished,Apartment,12010000
+Shivamogga,2700,5,4,8,2,15,Fully-Furnished,Penthouse,19230000
+Hyderabad,2150,6,6,9,2,2,Unfurnished,Villa,20260000
+Bengaluru,1050,3,2,4,0,10,Fully-Furnished,Apartment,9050000
+Pune,2700,4,4,11,2,1,Unfurnished,Independent House,19780000
+Hyderabad,2200,4,4,19,2,3,Semi-Furnished,Independent House,15360000
+Pune,2950,4,5,9,3,3,Fully-Furnished,Villa,31020000
+Chennai,2200,3,3,10,2,13,Unfurnished,Penthouse,17700000
+Hyderabad,2050,4,4,18,1,2,Unfurnished,Apartment,9740000
+Hubli,1650,2,2,15,1,10,Semi-Furnished,Apartment,5270000
+Bengaluru,2750,3,3,15,1,3,Fully-Furnished,Independent House,22690000
+Pune,700,2,2,17,1,7,Unfurnished,Apartment,3870000
+Shivamogga,2400,2,2,9,2,3,Fully-Furnished,Independent House,10630000
+Mangalore,1800,3,3,13,1,4,Semi-Furnished,Apartment,7450000
+Mysore,1450,4,3,9,2,2,Semi-Furnished,Apartment,6460000
+Mysore,3400,4,4,7,2,3,Fully-Furnished,Villa,27500000
+Mangalore,2000,2,3,18,1,2,Fully-Furnished,Apartment,8940000
+Mangalore,1650,1,1,4,2,10,Semi-Furnished,Apartment,8050000
+Mangalore,1300,4,3,3,0,4,Fully-Furnished,Apartment,7780000
+Hubli,1850,1,1,8,1,6,Unfurnished,Apartment,5900000
+Hubli,2400,3,4,12,1,2,Fully-Furnished,Independent House,11840000
+Hubli,1100,4,5,5,1,11,Unfurnished,Apartment,3300000
+Hyderabad,2050,5,4,21,2,2,Semi-Furnished,Villa,17460000
+Mysore,2300,3,4,1,1,15,Fully-Furnished,Apartment,11330000
+Mysore,1800,2,3,5,2,13,Unfurnished,Apartment,7810000
+Shivamogga,4650,4,3,6,3,25,Unfurnished,Penthouse,22940000
+Mangalore,1650,3,3,18,2,8,Fully-Furnished,Apartment,7150000
+Mangalore,2900,6,5,7,2,3,Fully-Furnished,Villa,24690000
+Bengaluru,2100,2,3,1,2,15,Semi-Furnished,Apartment,17420000
+Hubli,950,2,1,1,1,10,Fully-Furnished,Apartment,3950000
+Mangalore,1850,4,3,8,2,3,Fully-Furnished,Independent House,11330000
+Chennai,900,2,1,7,0,15,Semi-Furnished,Apartment,5770000
+Mangalore,1200,4,5,8,1,2,Unfurnished,Independent House,6110000
+Pune,1900,4,5,9,1,3,Unfurnished,Independent House,13330000
+Shivamogga,2700,6,6,22,2,3,Semi-Furnished,Villa,13470000
+Shivamogga,1400,2,2,8,2,5,Fully-Furnished,Apartment,6390000
+Mysore,1750,1,2,8,1,13,Fully-Furnished,Apartment,9240000
+Mysore,1200,1,1,8,0,15,Semi-Furnished,Apartment,4390000
+Mysore,1350,2,3,7,1,1,Fully-Furnished,Independent House,8200000
+Mysore,1300,2,2,9,0,3,Unfurnished,Apartment,4560000
+Pune,1900,3,3,10,1,15,Unfurnished,Apartment,11450000
+Hubli,1500,3,4,14,2,4,Unfurnished,Apartment,4710000
+Pune,1700,1,1,17,2,10,Fully-Furnished,Apartment,11270000
+Shivamogga,700,2,1,3,0,11,Fully-Furnished,Apartment,3030000
+Bengaluru,1350,2,1,11,0,8,Fully-Furnished,Apartment,10170000
+Bengaluru,2950,5,4,13,2,2,Semi-Furnished,Villa,27270000
+Hubli,1350,2,3,4,0,2,Fully-Furnished,Apartment,5700000
+Bengaluru,2500,3,3,10,2,2,Fully-Furnished,Independent House,23410000
+Mysore,2100,4,4,14,1,3,Semi-Furnished,Independent House,10930000
+Shivamogga,2000,4,3,14,2,7,Unfurnished,Apartment,6210000
+Mangalore,1000,2,2,14,1,5,Fully-Furnished,Apartment,4910000
+Bengaluru,1800,4,5,20,1,1,Semi-Furnished,Independent House,15040000
+Chennai,4350,4,4,3,3,3,Semi-Furnished,Villa,43580000
+Shivamogga,2850,4,5,9,2,3,Fully-Furnished,Villa,17440000
+Hyderabad,900,1,1,22,0,10,Fully-Furnished,Apartment,4790000
+Hubli,1750,2,2,7,2,1,Semi-Furnished,Independent House,7490000
+Mangalore,1450,3,2,14,1,2,Fully-Furnished,Independent House,7170000
+Mysore,2250,4,5,5,2,3,Unfurnished,Apartment,10540000
+Mysore,700,1,2,16,0,1,Semi-Furnished,Apartment,3020000
+Bengaluru,2200,1,2,13,2,1,Fully-Furnished,Apartment,17430000
+Mangalore,950,2,3,6,1,11,Unfurnished,Apartment,3720000
+Bengaluru,1700,3,2,4,2,9,Semi-Furnished,Apartment,12150000
+Hubli,1450,3,4,17,2,1,Unfurnished,Independent House,4600000
+Shivamogga,700,1,1,4,1,10,Semi-Furnished,Apartment,2570000
+Bengaluru,4150,5,6,3,3,7,Semi-Furnished,Penthouse,49190000
+Chennai,2300,2,3,5,2,7,Unfurnished,Apartment,14250000
+Hyderabad,700,1,1,6,1,14,Unfurnished,Apartment,3500000
+Mysore,1950,2,2,9,1,2,Fully-Furnished,Independent House,10700000
+Mangalore,2250,4,4,2,1,3,Fully-Furnished,Independent House,14880000
+Hyderabad,1550,2,3,18,2,1,Fully-Furnished,Independent House,11190000
+Bengaluru,2500,5,4,10,3,2,Semi-Furnished,Villa,26070000
+Mangalore,4650,3,2,11,3,3,Semi-Furnished,Villa,30340000
+Mangalore,2150,2,3,14,2,15,Semi-Furnished,Apartment,10380000
+Bengaluru,2350,4,4,16,2,1,Semi-Furnished,Independent House,20960000
+Shivamogga,2800,3,2,16,1,1,Semi-Furnished,Independent House,11520000
+Hyderabad,1950,4,5,4,1,2,Unfurnished,Independent House,12130000
+Hyderabad,2450,4,3,1,2,1,Fully-Furnished,Villa,28200000
+Mysore,1750,3,3,17,2,10,Unfurnished,Apartment,6240000
+Chennai,1000,3,4,0,1,14,Fully-Furnished,Apartment,7000000
+Pune,3650,3,2,9,3,7,Fully-Furnished,Penthouse,40840000
+Mysore,2200,3,3,9,1,1,Semi-Furnished,Independent House,11590000
+Bengaluru,2200,4,4,10,2,3,Unfurnished,Independent House,16510000
+Chennai,1750,3,3,5,1,3,Fully-Furnished,Independent House,15610000
+Hubli,1450,2,3,2,2,13,Fully-Furnished,Apartment,6130000
+Bengaluru,750,2,2,3,1,5,Semi-Furnished,Apartment,4650000
+Mysore,4200,5,5,14,3,3,Unfurnished,Villa,24330000
+Shivamogga,750,2,3,19,0,14,Semi-Furnished,Apartment,2550000
+Pune,1400,4,3,4,2,1,Fully-Furnished,Apartment,10100000
+Shivamogga,1300,2,2,13,0,7,Fully-Furnished,Apartment,5110000
+Mysore,2000,3,3,6,2,3,Fully-Furnished,Independent House,12550000
+Hyderabad,3300,4,4,5,2,12,Fully-Furnished,Penthouse,36450000
+Mangalore,2300,3,4,6,1,2,Fully-Furnished,Independent House,12140000
+Bengaluru,800,1,2,7,0,12,Semi-Furnished,Apartment,4950000
+Bengaluru,1650,2,3,11,1,2,Fully-Furnished,Apartment,11440000
+Mysore,4050,4,4,8,2,3,Semi-Furnished,Villa,28300000
+Pune,2500,3,3,4,1,2,Unfurnished,Independent House,16920000
+Shivamogga,2050,2,2,2,1,10,Semi-Furnished,Apartment,7340000
+Mysore,2000,4,5,3,2,3,Semi-Furnished,Independent House,9780000
+Hubli,2050,5,4,11,2,1,Fully-Furnished,Villa,10870000
+Hyderabad,3700,6,7,19,3,2,Semi-Furnished,Villa,31090000
+Bengaluru,1100,4,3,9,1,2,Fully-Furnished,Independent House,9140000
+Bengaluru,2100,2,1,15,2,11,Unfurnished,Apartment,10900000
+Pune,1700,4,3,11,2,2,Unfurnished,Independent House,12430000
+Mangalore,950,4,5,5,1,2,Fully-Furnished,Apartment,5320000
+Chennai,2200,4,3,6,2,16,Unfurnished,Penthouse,18640000
+Chennai,4450,4,5,10,2,5,Fully-Furnished,Penthouse,44800000
+Chennai,3850,4,5,11,2,1,Fully-Furnished,Villa,34100000
+Bengaluru,900,3,2,15,0,2,Semi-Furnished,Apartment,5850000
+Bengaluru,3250,5,5,3,2,2,Unfurnished,Villa,34970000
+Hyderabad,1100,3,2,12,0,8,Unfurnished,Apartment,5850000
+Bengaluru,3850,5,4,1,3,1,Unfurnished,Villa,36210000
+Hubli,2050,3,4,3,1,11,Semi-Furnished,Apartment,7610000
+Mysore,1150,3,4,8,0,3,Semi-Furnished,Independent House,5400000
+Mangalore,2350,1,2,6,1,8,Fully-Furnished,Apartment,12330000
+Mangalore,900,3,3,4,0,1,Fully-Furnished,Apartment,4430000
+Hubli,2050,3,2,3,1,15,Fully-Furnished,Apartment,7660000
+Chennai,1200,3,4,7,1,2,Unfurnished,Independent House,8820000
+Mangalore,2950,3,2,13,2,2,Unfurnished,Villa,15420000
+Shivamogga,2400,6,6,4,3,1,Semi-Furnished,Villa,15310000
+Hubli,850,1,2,2,0,2,Semi-Furnished,Apartment,2930000
+Hyderabad,1150,2,3,20,0,10,Fully-Furnished,Apartment,6900000
+Chennai,2600,5,5,5,3,3,Unfurnished,Villa,21580000
+Mangalore,3750,4,5,17,3,1,Unfurnished,Villa,25230000
+Shivamogga,1300,4,3,8,0,2,Fully-Furnished,Apartment,5600000
+Pune,2500,4,3,11,2,4,Semi-Furnished,Penthouse,24740000
+Chennai,4200,3,3,8,2,3,Semi-Furnished,Villa,36500000
+Chennai,1100,2,2,17,1,3,Unfurnished,Independent House,6330000
+Mangalore,2200,4,5,19,3,1,Unfurnished,Villa,12300000
+Shivamogga,950,3,4,2,0,3,Semi-Furnished,Apartment,3380000
+Chennai,2650,3,4,13,2,2,Semi-Furnished,Independent House,18850000
+Shivamogga,1250,3,4,9,0,8,Fully-Furnished,Apartment,5210000
+Hubli,1250,4,5,14,0,4,Semi-Furnished,Apartment,3670000
+Mysore,2300,1,1,5,1,8,Unfurnished,Apartment,9790000
+Shivamogga,2300,3,2,8,2,8,Fully-Furnished,Apartment,9600000
+Bengaluru,2050,3,4,6,2,11,Fully-Furnished,Apartment,17790000
+Chennai,1600,2,1,14,1,8,Semi-Furnished,Apartment,10240000
+Shivamogga,1100,2,3,18,1,3,Unfurnished,Apartment,3630000
+Mysore,850,2,3,3,1,6,Unfurnished,Apartment,3290000
+Hyderabad,2550,5,6,21,3,7,Unfurnished,Penthouse,19630000
+Mysore,4600,4,3,21,3,24,Fully-Furnished,Penthouse,30290000
+Mysore,4150,5,5,12,3,1,Unfurnished,Villa,24300000
+Shivamogga,2100,3,3,3,1,10,Fully-Furnished,Apartment,8420000
+Hubli,750,1,2,11,0,9,Semi-Furnished,Apartment,2230000
+Shivamogga,3050,4,5,16,3,2,Semi-Furnished,Villa,14170000
+Hubli,4450,3,2,13,3,17,Semi-Furnished,Penthouse,22700000
+Pune,1950,4,5,2,1,2,Semi-Furnished,Independent House,17880000
+Hyderabad,2300,3,2,0,2,7,Unfurnished,Apartment,13830000
+Mysore,2100,2,3,8,2,14,Fully-Furnished,Apartment,9780000
+Chennai,2000,2,2,5,2,2,Fully-Furnished,Apartment,14400000
+Mysore,2500,3,2,3,2,2,Unfurnished,Independent House,12270000
+Chennai,2900,4,5,15,2,3,Fully-Furnished,Independent House,23810000
+Mysore,1400,4,5,3,1,1,Semi-Furnished,Independent House,7510000
+Hyderabad,1150,4,3,9,0,13,Unfurnished,Apartment,6000000
+Hyderabad,4450,4,4,12,3,1,Fully-Furnished,Villa,44960000
+Shivamogga,1100,3,3,6,0,2,Unfurnished,Apartment,3320000
+Mangalore,3650,6,7,12,2,2,Semi-Furnished,Villa,27020000
+Mysore,3400,4,5,6,3,23,Fully-Furnished,Penthouse,28680000
+Hubli,2050,2,1,16,1,12,Unfurnished,Apartment,5380000
+Bengaluru,1950,1,1,1,2,13,Semi-Furnished,Apartment,12460000
+Shivamogga,2200,1,1,5,1,13,Unfurnished,Apartment,8080000
+Mangalore,1500,3,2,3,2,3,Semi-Furnished,Independent House,8550000
+Mangalore,1200,4,3,9,0,2,Unfurnished,Independent House,6340000
+Bengaluru,4550,5,5,12,2,18,Fully-Furnished,Penthouse,59210000
+Hyderabad,3300,4,4,3,3,7,Semi-Furnished,Penthouse,29570000
+Hyderabad,2250,2,1,6,1,2,Semi-Furnished,Independent House,15810000
+Chennai,1350,3,2,16,1,11,Semi-Furnished,Apartment,7280000
+Chennai,1900,4,5,11,1,1,Semi-Furnished,Independent House,13580000
+Bengaluru,2950,3,2,6,1,2,Unfurnished,Independent House,23480000
+Bengaluru,1350,3,3,13,1,13,Fully-Furnished,Apartment,10840000
+Pune,3500,4,4,3,3,19,Semi-Furnished,Penthouse,36900000
+Shivamogga,700,1,1,12,0,7,Fully-Furnished,Apartment,2650000
+Bengaluru,3950,6,6,14,2,2,Fully-Furnished,Villa,44230000
+Hyderabad,3600,3,2,22,2,2,Semi-Furnished,Villa,25560000
+Chennai,950,4,4,17,0,8,Semi-Furnished,Apartment,4950000
+Chennai,3700,5,6,9,3,2,Fully-Furnished,Villa,42380000
+Pune,1650,3,4,11,2,6,Unfurnished,Apartment,8140000
+Hyderabad,1900,1,2,6,1,7,Semi-Furnished,Apartment,12650000
+Shivamogga,1600,3,4,2,1,2,Unfurnished,Independent House,6280000
+Hyderabad,1800,3,4,9,2,5,Unfurnished,Apartment,10460000
+Hyderabad,1300,3,2,14,0,12,Fully-Furnished,Apartment,7250000
+Hyderabad,1150,3,2,8,0,14,Fully-Furnished,Apartment,6700000
+Hubli,3200,4,5,13,2,22,Unfurnished,Penthouse,15700000
+Chennai,1250,1,2,15,1,7,Fully-Furnished,Apartment,7720000
+Pune,1550,4,5,4,1,11,Fully-Furnished,Apartment,11420000
+Chennai,2300,4,4,5,2,15,Fully-Furnished,Apartment,16930000
+Mangalore,900,2,3,12,1,14,Semi-Furnished,Apartment,4030000
+Bengaluru,2850,3,3,11,2,3,Fully-Furnished,Independent House,23610000
+Mysore,1050,2,2,8,1,7,Fully-Furnished,Apartment,5290000
+Hubli,1100,2,3,9,0,12,Semi-Furnished,Apartment,3870000
+Bengaluru,1150,1,1,17,0,7,Fully-Furnished,Apartment,8180000
+Bengaluru,2800,4,4,8,1,1,Fully-Furnished,Independent House,24170000
+Hyderabad,4200,4,4,4,2,1,Unfurnished,Villa,39010000
+Hubli,2150,6,6,12,2,2,Fully-Furnished,Villa,12210000
+Hubli,4800,4,4,12,3,1,Fully-Furnished,Villa,30810000
+Shivamogga,2750,3,3,9,2,3,Fully-Furnished,Independent House,13310000
+Bengaluru,1550,4,4,0,2,2,Semi-Furnished,Independent House,13190000
+Mangalore,2150,2,2,11,2,13,Unfurnished,Apartment,8010000
+Chennai,1350,2,3,7,0,14,Unfurnished,Apartment,7800000
+Hyderabad,1900,3,4,6,1,13,Unfurnished,Apartment,10670000
+Chennai,2400,5,4,11,3,3,Unfurnished,Villa,17650000
+Mysore,4050,4,4,8,2,2,Unfurnished,Villa,25370000
+Hubli,1350,2,2,16,0,1,Unfurnished,Apartment,4280000
+Mangalore,4900,4,4,12,2,1,Semi-Furnished,Villa,33840000
+Mysore,1250,3,2,1,1,13,Semi-Furnished,Apartment,6120000
+Mangalore,1500,3,3,13,2,1,Semi-Furnished,Independent House,8700000
+Hubli,1450,3,3,14,1,2,Semi-Furnished,Independent House,5220000
+Mangalore,1800,3,2,1,1,14,Semi-Furnished,Apartment,9700000
+Mangalore,2550,4,4,2,1,1,Semi-Furnished,Independent House,16470000
+Hyderabad,4600,3,2,5,3,13,Semi-Furnished,Penthouse,45250000
+Shivamogga,1600,4,4,18,2,1,Unfurnished,Independent House,5660000
+Mysore,1150,2,2,16,1,12,Semi-Furnished,Apartment,4890000
+Hubli,2650,3,4,6,1,2,Fully-Furnished,Independent House,14420000
+Mysore,3000,4,3,4,1,1,Unfurnished,Independent House,12520000
+Chennai,2350,3,2,7,2,8,Semi-Furnished,Apartment,13610000
+Mysore,800,2,1,15,1,10,Fully-Furnished,Apartment,3550000
+Shivamogga,2250,4,3,5,2,3,Unfurnished,Independent House,9730000
+Bengaluru,1650,1,1,3,1,8,Fully-Furnished,Apartment,13430000
+Hubli,1100,2,3,10,1,2,Fully-Furnished,Independent House,5750000
+Mysore,700,1,1,6,0,12,Unfurnished,Apartment,2710000
+Bengaluru,950,3,2,1,0,3,Semi-Furnished,Apartment,7180000
+Mysore,1500,3,4,14,2,15,Fully-Furnished,Apartment,7060000
+Bengaluru,3500,5,5,17,3,2,Fully-Furnished,Villa,37770000
+Pune,3800,5,6,7,2,3,Semi-Furnished,Villa,42520000
+Mysore,3550,3,3,8,2,19,Semi-Furnished,Penthouse,21520000
+Hubli,3550,4,5,2,2,1,Fully-Furnished,Villa,19630000
+Bengaluru,1900,2,2,5,1,13,Fully-Furnished,Apartment,13460000
+Chennai,950,3,2,2,1,6,Fully-Furnished,Apartment,7260000
+Chennai,1650,3,2,4,2,3,Unfurnished,Independent House,10720000
+Pune,950,3,3,12,1,5,Fully-Furnished,Apartment,6990000
+Pune,2250,4,3,4,2,3,Unfurnished,Villa,21110000
+Mysore,2000,4,3,2,2,1,Semi-Furnished,Independent House,10450000
+Mysore,2000,4,4,1,2,3,Unfurnished,Independent House,9490000
+Pune,650,1,2,7,1,14,Semi-Furnished,Apartment,4390000
+Hubli,1300,3,4,12,1,4,Fully-Furnished,Apartment,4160000
+Hyderabad,1650,4,4,3,2,2,Fully-Furnished,Independent House,13310000
+Mangalore,1400,3,2,10,2,15,Fully-Furnished,Apartment,7800000
+Chennai,1150,4,4,20,1,13,Semi-Furnished,Apartment,6990000
+Mangalore,1950,4,4,3,1,3,Fully-Furnished,Apartment,10830000
+Chennai,1000,1,1,6,1,6,Fully-Furnished,Apartment,6380000
+Shivamogga,3000,3,4,4,2,2,Semi-Furnished,Villa,19600000
+Shivamogga,3650,4,5,16,2,3,Unfurnished,Villa,18620000
+Chennai,4150,3,4,10,2,21,Unfurnished,Penthouse,35410000
+Bengaluru,4700,4,5,5,3,3,Semi-Furnished,Villa,53330000
+Hyderabad,850,2,2,21,0,4,Semi-Furnished,Apartment,4120000
+Bengaluru,1900,3,3,11,1,3,Fully-Furnished,Apartment,13690000
+Pune,1350,3,4,14,1,1,Semi-Furnished,Apartment,7220000
+Bengaluru,1200,2,2,2,0,11,Fully-Furnished,Apartment,8760000
+Hubli,2200,4,5,16,2,15,Semi-Furnished,Apartment,6340000
+Mysore,2000,3,4,10,2,3,Semi-Furnished,Independent House,11530000
+Pune,4600,3,2,9,3,3,Fully-Furnished,Villa,48900000
+Hubli,1500,2,3,6,1,1,Unfurnished,Apartment,5350000
+Hubli,2000,4,4,22,1,12,Unfurnished,Apartment,5920000
+Hyderabad,1950,1,1,5,1,8,Semi-Furnished,Apartment,13300000
+Mangalore,1100,4,5,11,1,9,Fully-Furnished,Apartment,5200000
+Mangalore,3050,3,2,12,3,1,Unfurnished,Villa,16750000
+Chennai,750,1,2,7,1,14,Semi-Furnished,Apartment,4750000
+Chennai,3050,4,3,3,1,2,Fully-Furnished,Independent House,26430000
+Bengaluru,2050,2,3,3,2,1,Fully-Furnished,Independent House,20950000
+Hyderabad,1150,3,2,6,1,2,Semi-Furnished,Independent House,8290000
+Mysore,3250,4,4,4,3,1,Unfurnished,Villa,19610000
+Shivamogga,1650,3,3,17,2,8,Fully-Furnished,Apartment,6550000
+Mysore,2050,4,5,7,2,1,Fully-Furnished,Independent House,12590000
+Mangalore,3000,3,4,17,3,3,Unfurnished,Villa,19330000
+Hubli,1350,4,3,4,0,3,Fully-Furnished,Independent House,5750000
+Shivamogga,2250,2,1,5,1,4,Fully-Furnished,Apartment,9960000
+Bengaluru,3800,5,6,2,2,2,Semi-Furnished,Villa,38470000
+Hyderabad,800,1,2,4,0,3,Semi-Furnished,Apartment,4960000
+Pune,1200,3,2,1,0,2,Semi-Furnished,Independent House,8170000
+Hyderabad,2250,1,1,4,1,8,Fully-Furnished,Apartment,15740000
+Bengaluru,1200,3,3,2,0,7,Fully-Furnished,Apartment,9310000
+Hubli,2300,2,1,13,1,2,Fully-Furnished,Independent House,9140000
+Mangalore,2400,6,5,14,3,3,Semi-Furnished,Villa,14710000
+Hubli,1450,2,2,5,2,3,Semi-Furnished,Independent House,7190000
+Mangalore,2150,2,1,13,1,2,Unfurnished,Independent House,9270000
+Mysore,3150,4,3,10,2,3,Semi-Furnished,Independent House,17180000
+Chennai,1800,2,2,4,2,1,Fully-Furnished,Apartment,12110000
+Chennai,650,2,2,9,1,13,Semi-Furnished,Apartment,4040000
+Bengaluru,2950,4,5,3,2,3,Semi-Furnished,Independent House,26700000
+Shivamogga,1250,2,2,0,0,13,Semi-Furnished,Apartment,5100000
+Mangalore,1700,2,3,4,2,6,Unfurnished,Apartment,7350000
+Mangalore,2350,4,4,3,2,10,Fully-Furnished,Apartment,13050000
+Mysore,850,1,1,5,0,15,Fully-Furnished,Apartment,4120000
+Shivamogga,4000,4,5,9,3,4,Semi-Furnished,Penthouse,25860000
+Shivamogga,2950,5,5,3,3,2,Semi-Furnished,Villa,17110000
+Mangalore,2250,3,3,6,2,4,Semi-Furnished,Apartment,9760000
+Shivamogga,2750,5,4,18,2,9,Semi-Furnished,Penthouse,14230000
+Bengaluru,1400,1,2,14,2,14,Semi-Furnished,Apartment,8690000
+Hyderabad,4450,6,5,19,3,1,Fully-Furnished,Villa,38770000
+Shivamogga,3100,3,2,2,3,1,Semi-Furnished,Villa,18360000
+Bengaluru,2250,3,3,7,2,1,Fully-Furnished,Independent House,22760000
+Chennai,2000,3,4,3,1,8,Fully-Furnished,Apartment,13580000
+Bengaluru,1850,3,2,17,1,11,Fully-Furnished,Apartment,12050000
+Chennai,850,1,1,3,1,9,Fully-Furnished,Apartment,6160000
+Mysore,1150,2,2,6,0,9,Fully-Furnished,Apartment,5460000
+Mangalore,2850,4,4,6,1,3,Unfurnished,Independent House,15350000
+Chennai,3150,4,5,6,2,3,Semi-Furnished,Independent House,23350000
+Chennai,4700,5,4,18,2,3,Unfurnished,Villa,34350000
+Chennai,3100,3,4,6,2,1,Unfurnished,Independent House,20070000
+Shivamogga,1350,4,3,11,1,1,Unfurnished,Independent House,4740000
+Mangalore,4150,4,5,5,2,1,Unfurnished,Villa,30340000
+Shivamogga,2400,3,3,19,3,2,Unfurnished,Villa,10370000
+Mysore,4700,5,6,2,2,8,Unfurnished,Penthouse,29280000
+Hyderabad,1400,4,3,18,1,14,Fully-Furnished,Apartment,7700000
+Mangalore,2000,2,3,20,2,4,Fully-Furnished,Apartment,8250000
+Bengaluru,1300,4,5,6,1,3,Semi-Furnished,Apartment,10020000
+Chennai,2100,3,4,7,1,1,Unfurnished,Independent House,15390000
+Mangalore,1150,3,4,3,1,5,Fully-Furnished,Apartment,5730000
+Hubli,1250,3,2,8,1,7,Semi-Furnished,Apartment,4240000
+Chennai,1300,2,2,4,0,6,Unfurnished,Apartment,6930000
+Bengaluru,4750,3,2,2,2,3,Unfurnished,Villa,45070000
+Hubli,2050,4,4,4,1,14,Fully-Furnished,Apartment,9170000
+Shivamogga,2800,4,4,19,2,2,Fully-Furnished,Villa,15690000
+Mysore,2650,4,4,4,3,3,Semi-Furnished,Villa,16860000
+Mangalore,2250,3,2,7,1,6,Unfurnished,Apartment,9260000
+Shivamogga,2450,3,3,4,2,3,Semi-Furnished,Independent House,12170000
+Hubli,650,1,1,3,1,10,Fully-Furnished,Apartment,2850000
+Pune,2700,5,4,9,2,19,Unfurnished,Penthouse,24510000
+Hubli,800,1,1,1,1,1,Unfurnished,Apartment,2490000
+Pune,1050,4,5,2,0,6,Fully-Furnished,Apartment,6870000
+Pune,2350,2,3,7,1,7,Unfurnished,Apartment,12150000
+Pune,3950,4,5,10,3,3,Unfurnished,Villa,35010000
+Hubli,2350,3,2,15,1,9,Semi-Furnished,Apartment,8620000
+Chennai,700,1,1,11,1,6,Fully-Furnished,Apartment,4980000
+Pune,2800,3,3,5,2,2,Semi-Furnished,Independent House,23650000
+Bengaluru,2300,2,1,5,2,11,Unfurnished,Apartment,15780000
+Mangalore,3200,6,5,23,2,1,Fully-Furnished,Villa,22300000
+Chennai,1000,1,1,1,1,7,Semi-Furnished,Apartment,6960000
+Pune,1050,4,3,6,1,8,Semi-Furnished,Apartment,6130000
+Mangalore,2000,4,4,15,1,1,Fully-Furnished,Independent House,10130000
+Pune,1800,1,2,5,2,6,Unfurnished,Apartment,9610000
+Mangalore,700,1,2,11,0,7,Fully-Furnished,Apartment,3090000
+Shivamogga,1300,2,1,6,0,4,Unfurnished,Apartment,3630000
+Shivamogga,950,4,3,4,0,13,Fully-Furnished,Apartment,3570000
+Pune,2800,3,4,11,1,3,Semi-Furnished,Independent House,22240000
+Mangalore,1200,1,1,11,0,7,Unfurnished,Apartment,4440000
+Hubli,1850,2,1,7,2,1,Fully-Furnished,Independent House,8850000
+Mysore,800,2,3,12,0,6,Unfurnished,Apartment,3130000
+Hyderabad,3900,3,3,1,3,16,Fully-Furnished,Penthouse,44670000
+Shivamogga,1700,1,1,4,2,13,Unfurnished,Apartment,5790000
+Hyderabad,1500,4,3,11,1,3,Fully-Furnished,Independent House,12610000
+Hyderabad,1200,1,2,14,1,11,Semi-Furnished,Apartment,6890000
+Hyderabad,1000,1,2,22,0,10,Semi-Furnished,Apartment,4880000
+Shivamogga,1500,2,1,11,1,4,Unfurnished,Apartment,4340000
+Mangalore,750,1,1,5,0,4,Semi-Furnished,Apartment,3070000
+Hubli,3100,3,3,16,2,1,Semi-Furnished,Independent House,11380000
+Chennai,1700,3,2,15,2,1,Semi-Furnished,Apartment,9330000
+Hubli,1400,3,3,6,2,2,Semi-Furnished,Independent House,5850000
+Bengaluru,1900,2,1,18,1,1,Fully-Furnished,Apartment,13450000
+Pune,4600,4,4,8,2,17,Unfurnished,Penthouse,46050000
+Mysore,1400,2,3,6,2,11,Fully-Furnished,Apartment,6480000
+Pune,4100,4,4,1,3,24,Fully-Furnished,Penthouse,53270000
+Mysore,1400,4,3,5,1,1,Unfurnished,Apartment,6050000
+Pune,1650,1,2,18,2,3,Semi-Furnished,Apartment,8830000
+Pune,2600,2,1,11,2,1,Semi-Furnished,Independent House,20620000
+Pune,1100,3,3,0,0,3,Semi-Furnished,Independent House,8910000
+Pune,1300,4,3,4,0,9,Unfurnished,Apartment,7730000
+Mysore,1950,2,2,22,2,8,Fully-Furnished,Apartment,8600000
+Mysore,750,1,1,2,0,10,Unfurnished,Apartment,2980000
+Bengaluru,1100,1,2,10,0,2,Unfurnished,Apartment,6360000
+Hubli,3400,4,5,7,3,25,Semi-Furnished,Penthouse,23010000
+Hyderabad,1850,2,2,16,1,1,Semi-Furnished,Independent House,12790000
+Mysore,850,1,1,19,0,6,Semi-Furnished,Apartment,3250000
+Chennai,2450,2,3,20,2,1,Fully-Furnished,Independent House,16540000
+Hyderabad,1550,4,4,13,1,2,Semi-Furnished,Independent House,12050000
+Chennai,4400,3,4,7,2,8,Fully-Furnished,Penthouse,53960000
+Shivamogga,2000,2,3,23,2,3,Semi-Furnished,Apartment,7080000
+Mangalore,900,4,5,2,1,12,Unfurnished,Apartment,3880000
+Pune,2650,4,5,8,2,3,Unfurnished,Villa,25810000
+Chennai,1850,2,3,13,1,11,Semi-Furnished,Apartment,10730000
+Pune,2700,4,3,4,1,2,Unfurnished,Independent House,17050000
+Mangalore,1300,3,2,16,1,3,Fully-Furnished,Independent House,6050000
+Mangalore,4900,4,4,14,2,3,Fully-Furnished,Villa,35420000
+Pune,2100,2,1,15,2,14,Unfurnished,Apartment,11130000
+Hubli,1800,4,3,10,2,9,Fully-Furnished,Apartment,6510000
+Chennai,1550,3,4,20,1,2,Unfurnished,Independent House,9610000
+Mangalore,1200,3,3,13,1,3,Unfurnished,Independent House,6330000
+Hyderabad,1450,2,2,7,2,5,Fully-Furnished,Apartment,10860000
+Pune,1200,3,2,16,1,8,Fully-Furnished,Apartment,6860000
+Chennai,900,2,3,4,0,6,Fully-Furnished,Apartment,6560000
+Mysore,2350,4,3,18,1,6,Semi-Furnished,Apartment,8160000
+Hyderabad,3100,4,3,1,1,2,Semi-Furnished,Independent House,22350000
+Mysore,1850,2,2,16,2,2,Fully-Furnished,Independent House,9900000
+Bengaluru,850,1,2,18,0,1,Fully-Furnished,Apartment,5870000
+Hubli,1250,4,3,7,1,2,Fully-Furnished,Independent House,5110000
+Mysore,1850,3,4,15,2,2,Fully-Furnished,Apartment,9210000
+Bengaluru,1500,2,1,16,1,1,Fully-Furnished,Independent House,11930000
+Shivamogga,1000,2,1,9,0,2,Unfurnished,Apartment,3130000
+Mysore,2300,1,1,5,2,11,Fully-Furnished,Apartment,11110000
+Hyderabad,3150,3,4,9,1,3,Unfurnished,Independent House,20140000
+Shivamogga,1150,2,1,10,0,10,Semi-Furnished,Apartment,3850000
+Pune,1050,3,4,17,1,8,Unfurnished,Apartment,6290000
+Mysore,1200,3,4,12,0,3,Semi-Furnished,Independent House,6010000
+Mysore,900,3,3,1,0,2,Semi-Furnished,Apartment,3590000
+Pune,1750,2,2,14,1,14,Unfurnished,Apartment,8560000
+Mangalore,800,1,1,9,1,10,Semi-Furnished,Apartment,3170000
+Hubli,2350,2,1,6,2,1,Semi-Furnished,Independent House,10730000
+Pune,850,1,2,9,0,11,Unfurnished,Apartment,4310000
+Hubli,1900,2,3,14,2,12,Semi-Furnished,Apartment,6060000
+Chennai,1650,4,5,19,1,2,Fully-Furnished,Independent House,13690000
+Pune,4500,3,2,13,2,1,Fully-Furnished,Villa,40010000
+Chennai,2000,5,6,8,2,2,Semi-Furnished,Villa,19800000
+Bengaluru,1700,4,3,12,2,4,Fully-Furnished,Apartment,13800000
+Shivamogga,3100,4,3,4,2,1,Fully-Furnished,Independent House,14770000
+Chennai,1300,1,1,18,0,14,Fully-Furnished,Apartment,8490000
+Hubli,1150,2,1,13,1,4,Semi-Furnished,Apartment,4290000
+Shivamogga,4500,5,4,6,3,14,Semi-Furnished,Penthouse,25710000
+Mysore,650,1,1,4,0,7,Unfurnished,Apartment,2650000
+Hubli,1300,2,2,7,0,9,Semi-Furnished,Apartment,3960000
+Chennai,1250,3,2,6,0,2,Unfurnished,Apartment,6330000
+Pune,2950,3,4,4,2,3,Semi-Furnished,Independent House,21590000
+Chennai,4100,4,4,8,3,1,Unfurnished,Villa,39470000
+Mysore,1500,4,3,2,2,7,Fully-Furnished,Apartment,8110000
+Hubli,750,1,1,10,0,4,Semi-Furnished,Apartment,2700000
+Mangalore,2000,4,5,14,1,3,Fully-Furnished,Independent House,11400000
+Mysore,850,1,1,22,0,7,Unfurnished,Apartment,2720000
+Shivamogga,1550,4,5,21,1,6,Semi-Furnished,Apartment,5130000
+Shivamogga,1100,2,2,12,0,6,Unfurnished,Apartment,3050000
+Hyderabad,1450,3,2,7,2,8,Semi-Furnished,Apartment,8160000
+Shivamogga,2700,3,3,6,2,3,Fully-Furnished,Independent House,13490000
+Hubli,1300,1,1,11,0,1,Fully-Furnished,Apartment,5390000
+Mangalore,1400,1,1,19,2,5,Fully-Furnished,Apartment,6430000
+Mysore,950,3,4,5,1,15,Semi-Furnished,Apartment,4300000
+Pune,1350,3,2,4,1,12,Unfurnished,Apartment,7830000
+Shivamogga,4050,5,5,12,2,1,Semi-Furnished,Villa,22870000
+Pune,1100,2,1,4,0,10,Fully-Furnished,Apartment,6990000
+Chennai,2600,3,3,16,2,3,Semi-Furnished,Independent House,17520000
+Shivamogga,1700,3,3,18,2,1,Fully-Furnished,Independent House,8680000
+Mangalore,1100,3,4,10,1,2,Unfurnished,Independent House,6170000
+Hubli,1950,4,4,6,1,3,Unfurnished,Independent House,7970000
+Hubli,2350,3,4,21,1,12,Fully-Furnished,Apartment,8750000
+Hubli,3900,6,5,15,2,2,Semi-Furnished,Villa,17960000
+Pune,1050,4,4,6,1,2,Semi-Furnished,Apartment,6220000
+Mysore,1500,4,3,11,1,5,Unfurnished,Apartment,6360000
+Mangalore,750,2,2,18,1,2,Fully-Furnished,Apartment,3500000
+Shivamogga,1850,2,1,15,1,1,Unfurnished,Independent House,6880000
+Shivamogga,2000,3,4,13,3,3,Unfurnished,Villa,9050000
+Chennai,2900,5,4,5,3,3,Fully-Furnished,Villa,29040000
+Bengaluru,1300,4,3,0,0,1,Unfurnished,Independent House,9790000
+Hubli,2150,3,4,17,1,8,Unfurnished,Apartment,6950000
+Hubli,1700,1,1,18,1,15,Unfurnished,Apartment,4720000
+Hyderabad,2500,3,4,12,2,2,Unfurnished,Independent House,14910000
+Hyderabad,4300,3,2,16,2,24,Unfurnished,Penthouse,31560000
+Chennai,2300,5,6,5,2,2,Unfurnished,Villa,18620000
+Hyderabad,2100,4,5,14,2,1,Fully-Furnished,Independent House,17580000
+Chennai,2100,4,3,7,2,3,Fully-Furnished,Independent House,18970000
+Mangalore,1550,2,1,23,1,2,Fully-Furnished,Independent House,7490000
+Bengaluru,1250,2,2,8,1,4,Unfurnished,Apartment,8090000
+Mysore,1850,2,2,13,2,6,Unfurnished,Apartment,7330000
+Bengaluru,1650,2,1,3,1,2,Unfurnished,Apartment,9620000
+Pune,950,4,3,13,1,8,Semi-Furnished,Apartment,6040000
+Shivamogga,900,4,3,10,0,9,Unfurnished,Apartment,2650000
+Chennai,2800,4,5,5,1,2,Unfurnished,Independent House,17850000
+Pune,2500,4,4,10,2,16,Unfurnished,Penthouse,25300000
+Bengaluru,3400,4,5,11,3,1,Unfurnished,Villa,34930000
+Mangalore,800,2,3,14,1,1,Unfurnished,Apartment,2990000
+Bengaluru,650,2,1,9,0,4,Semi-Furnished,Apartment,3890000
+Shivamogga,2750,2,1,6,2,1,Semi-Furnished,Independent House,13270000
+Mangalore,1300,2,1,12,0,6,Semi-Furnished,Apartment,6040000
+Mysore,2000,3,4,16,1,5,Unfurnished,Apartment,6670000
+Bengaluru,2800,4,5,11,2,20,Fully-Furnished,Penthouse,38380000
+Hyderabad,850,2,2,10,1,1,Fully-Furnished,Apartment,5720000
+Mangalore,3750,4,5,11,3,7,Unfurnished,Penthouse,23630000
+Bengaluru,2050,3,3,4,2,3,Semi-Furnished,Independent House,16680000
+Chennai,1450,2,2,11,1,2,Fully-Furnished,Apartment,9340000
+Hubli,2100,4,3,7,2,6,Unfurnished,Apartment,7160000
+Hubli,4950,3,4,21,2,3,Unfurnished,Villa,21650000
+Mysore,2850,4,5,7,2,1,Semi-Furnished,Villa,20820000
+Hyderabad,1750,3,2,2,1,15,Semi-Furnished,Apartment,11310000
+Hyderabad,1200,3,3,4,1,2,Semi-Furnished,Apartment,7380000
+Chennai,1000,3,2,22,1,1,Semi-Furnished,Apartment,5820000
+Mangalore,2150,4,4,5,1,2,Unfurnished,Apartment,8330000
+Hubli,3350,5,6,4,3,1,Unfurnished,Villa,15850000
+Hyderabad,2950,4,4,19,3,19,Fully-Furnished,Penthouse,28800000
+Pune,1850,3,2,9,1,2,Fully-Furnished,Apartment,13370000
+Hyderabad,2800,3,2,3,2,1,Semi-Furnished,Independent House,21880000
+Pune,1900,3,2,11,1,1,Unfurnished,Apartment,10820000
+Mysore,1550,3,2,21,1,2,Semi-Furnished,Independent House,6210000
+Bengaluru,2450,4,4,7,2,3,Semi-Furnished,Independent House,21640000
+Bengaluru,3350,4,3,9,2,21,Semi-Furnished,Penthouse,36580000
+Pune,2550,2,1,14,1,1,Fully-Furnished,Independent House,17730000
+Bengaluru,2650,4,3,11,1,3,Semi-Furnished,Independent House,22450000
+Chennai,1300,4,3,6,1,2,Fully-Furnished,Independent House,11390000
+Shivamogga,4200,4,4,17,3,13,Semi-Furnished,Penthouse,23060000
+Pune,650,2,3,15,1,6,Unfurnished,Apartment,4030000
+Mangalore,1900,4,5,7,1,3,Semi-Furnished,Independent House,9900000
+Mysore,1200,2,2,4,0,9,Unfurnished,Apartment,4960000
+Hubli,2450,4,3,3,2,2,Unfurnished,Villa,12490000
+Shivamogga,2200,2,3,6,1,2,Fully-Furnished,Independent House,11020000
+Mangalore,1550,3,4,15,2,2,Fully-Furnished,Independent House,7750000
+Mysore,2400,4,3,3,1,1,Unfurnished,Independent House,11330000
+Bengaluru,2100,2,2,3,1,7,Unfurnished,Apartment,13810000
+Mangalore,1850,3,4,18,1,1,Semi-Furnished,Independent House,7930000
+Shivamogga,1200,2,2,23,0,3,Fully-Furnished,Apartment,4420000
+Mangalore,2200,4,5,13,1,2,Unfurnished,Independent House,11210000
+Mysore,1900,2,2,5,1,2,Semi-Furnished,Apartment,8840000
+Chennai,2100,4,4,18,2,1,Unfurnished,Independent House,13860000
+Hubli,2450,4,3,14,3,17,Semi-Furnished,Penthouse,12960000
+Hyderabad,2350,4,3,9,2,3,Unfurnished,Independent House,15350000
+Hubli,1700,4,4,7,1,1,Semi-Furnished,Independent House,6870000
+Mangalore,1750,2,1,14,1,1,Semi-Furnished,Apartment,7880000
+Mangalore,2000,2,3,2,2,10,Unfurnished,Apartment,8790000
+Hubli,3050,4,5,17,2,3,Semi-Furnished,Independent House,11270000
+Mangalore,1500,1,1,7,1,8,Unfurnished,Apartment,6350000
+Mangalore,1650,4,3,18,2,1,Semi-Furnished,Independent House,7370000
+Shivamogga,650,1,1,15,1,12,Semi-Furnished,Apartment,2110000
+Pune,2000,3,4,2,2,12,Semi-Furnished,Apartment,14060000
+Bengaluru,4800,3,2,4,2,1,Unfurnished,Villa,52700000
+Pune,800,1,1,15,0,15,Fully-Furnished,Apartment,5350000
+Shivamogga,2300,1,1,6,2,5,Fully-Furnished,Apartment,8550000
+Chennai,1200,2,3,17,1,11,Semi-Furnished,Apartment,7030000
+Mangalore,2450,3,3,14,2,1,Unfurnished,Independent House,10750000
+Bengaluru,2100,2,3,11,1,12,Unfurnished,Apartment,11590000
+Mangalore,1000,3,2,8,1,4,Fully-Furnished,Apartment,5370000
+Hyderabad,2900,5,6,3,2,1,Unfurnished,Villa,27490000
+Chennai,3500,5,4,2,3,1,Fully-Furnished,Villa,37870000
+Bengaluru,2150,4,3,5,2,3,Semi-Furnished,Apartment,14190000
+Chennai,850,1,1,6,0,3,Semi-Furnished,Apartment,5100000
+Shivamogga,1250,1,2,6,1,4,Semi-Furnished,Apartment,4220000
+Hubli,2100,4,3,12,1,1,Unfurnished,Independent House,6970000
+Hubli,1550,2,1,17,2,7,Semi-Furnished,Apartment,4460000
+Hubli,1450,3,3,11,2,3,Unfurnished,Independent House,4770000
+Chennai,2850,3,2,6,1,1,Unfurnished,Independent House,18040000
+Shivamogga,1950,2,1,21,1,1,Fully-Furnished,Independent House,8130000
+Hyderabad,3700,5,4,8,2,4,Fully-Furnished,Penthouse,40060000
+Mangalore,1450,3,2,3,2,2,Semi-Furnished,Independent House,9160000
+Hubli,1600,4,3,15,2,3,Semi-Furnished,Independent House,7070000
+Chennai,1850,4,5,1,2,14,Unfurnished,Apartment,11620000
+Chennai,1650,4,4,6,1,4,Semi-Furnished,Apartment,11260000
+Chennai,4450,4,4,18,3,14,Semi-Furnished,Penthouse,42710000
+Hubli,700,1,2,6,0,7,Semi-Furnished,Apartment,2510000
+Hyderabad,2300,3,4,3,1,9,Semi-Furnished,Apartment,15210000
+Hubli,1200,3,2,8,0,2,Fully-Furnished,Independent House,4760000
+Shivamogga,1800,1,1,5,2,15,Semi-Furnished,Apartment,7220000
+Mysore,4050,4,5,4,2,13,Unfurnished,Penthouse,24490000
+Mangalore,3900,5,5,20,2,2,Semi-Furnished,Villa,24120000
+Pune,1750,4,3,12,1,2,Unfurnished,Independent House,10930000
+Hubli,1600,4,4,9,2,13,Semi-Furnished,Apartment,5120000
+Hyderabad,2500,3,3,6,2,2,Semi-Furnished,Independent House,18690000
+Shivamogga,3250,4,5,18,2,22,Fully-Furnished,Penthouse,19120000
+Hubli,2100,2,2,11,2,13,Fully-Furnished,Apartment,7550000
+Shivamogga,2350,1,1,10,2,10,Semi-Furnished,Apartment,9060000
+Bengaluru,2500,2,3,4,1,3,Fully-Furnished,Independent House,25520000
+Mysore,1150,1,1,10,0,2,Unfurnished,Apartment,3730000
+Bengaluru,1600,2,2,1,2,2,Unfurnished,Independent House,13850000
+Chennai,4300,4,5,12,2,17,Unfurnished,Penthouse,37600000
+Mangalore,1900,3,2,8,2,5,Fully-Furnished,Apartment,8870000
+Hyderabad,1900,2,2,7,2,1,Unfurnished,Independent House,11260000
+Pune,1150,4,5,17,1,1,Semi-Furnished,Apartment,7630000
+Chennai,2350,2,3,16,1,6,Fully-Furnished,Apartment,14880000
+Mysore,1800,4,4,8,1,2,Fully-Furnished,Independent House,9720000
+Chennai,1450,4,3,10,2,3,Fully-Furnished,Apartment,9820000
+Hyderabad,2800,2,1,1,1,1,Unfurnished,Independent House,19210000
+Chennai,1050,4,3,3,0,12,Semi-Furnished,Apartment,7010000
+Bengaluru,1050,1,2,2,1,10,Fully-Furnished,Apartment,9450000
+Hyderabad,1400,2,3,10,1,4,Semi-Furnished,Apartment,8280000
+Mangalore,900,3,2,2,0,11,Fully-Furnished,Apartment,4090000
+Mysore,3050,5,6,9,2,2,Unfurnished,Villa,19610000
+Chennai,1000,3,4,6,0,13,Unfurnished,Apartment,5630000
+Bengaluru,1350,4,4,3,1,1,Unfurnished,Independent House,10810000
+Mangalore,2850,4,4,12,2,1,Semi-Furnished,Villa,17110000
+Hubli,700,1,1,10,1,11,Unfurnished,Apartment,1830000
+Mangalore,1950,2,1,9,2,15,Fully-Furnished,Apartment,10390000
+Chennai,2300,3,4,15,1,6,Unfurnished,Apartment,13500000
+Bengaluru,3400,4,4,12,2,1,Semi-Furnished,Villa,34680000
+Pune,2000,2,1,18,1,13,Unfurnished,Apartment,10490000
+Shivamogga,1200,4,5,3,1,3,Unfurnished,Independent House,4530000
+Hyderabad,1250,1,1,4,0,4,Semi-Furnished,Apartment,8060000
+Shivamogga,2200,4,3,2,2,18,Unfurnished,Penthouse,11530000
+Mangalore,2500,5,5,11,2,6,Semi-Furnished,Penthouse,19700000
+Hyderabad,4550,5,6,5,3,3,Semi-Furnished,Villa,46620000
+Hubli,1550,1,1,6,2,12,Fully-Furnished,Apartment,5820000
+Mysore,3550,4,5,9,2,2,Fully-Furnished,Villa,26610000
+Mangalore,2450,4,3,1,1,2,Semi-Furnished,Independent House,14350000
+Bengaluru,2100,3,3,1,2,7,Semi-Furnished,Apartment,13920000
+Mysore,2200,3,2,9,2,1,Fully-Furnished,Independent House,12910000
+Hubli,3750,3,3,13,3,2,Fully-Furnished,Villa,23560000
+Bengaluru,3100,3,4,8,2,1,Semi-Furnished,Independent House,27240000
+Mangalore,650,1,1,2,0,13,Fully-Furnished,Apartment,3200000
+Shivamogga,1850,3,4,15,1,1,Semi-Furnished,Independent House,7640000
+Hubli,3300,3,3,0,2,2,Semi-Furnished,Villa,19110000
+Pune,2250,2,3,9,1,8,Unfurnished,Apartment,12360000
+Hubli,2350,4,3,16,2,1,Unfurnished,Villa,10260000
+Chennai,1150,3,2,19,1,2,Unfurnished,Independent House,7140000
+Hyderabad,1150,3,3,3,1,1,Fully-Furnished,Independent House,8220000
+Hyderabad,4000,3,4,7,3,1,Unfurnished,Villa,32530000
+Hyderabad,4500,4,4,19,3,23,Unfurnished,Penthouse,31230000
+Mysore,2050,6,5,14,3,1,Semi-Furnished,Villa,13370000
+Mysore,2350,1,1,20,1,10,Fully-Furnished,Apartment,10890000
+Pune,1350,4,3,10,1,2,Semi-Furnished,Independent House,9280000
+Mangalore,2000,2,1,8,1,12,Unfurnished,Apartment,8310000
+Pune,1250,3,2,18,1,10,Unfurnished,Apartment,6290000
+Mysore,2800,5,6,10,2,23,Semi-Furnished,Penthouse,20600000
+Bengaluru,1350,2,3,8,0,15,Unfurnished,Apartment,8760000
+Bengaluru,1950,4,4,13,1,14,Unfurnished,Apartment,12330000
+Mysore,2500,5,5,6,3,21,Unfurnished,Penthouse,16730000
+Hyderabad,2350,2,1,13,2,2,Semi-Furnished,Independent House,16380000
+Pune,1450,2,3,4,1,3,Unfurnished,Apartment,8780000
+Chennai,1400,3,4,10,1,4,Semi-Furnished,Apartment,8260000
+Pune,1300,2,1,2,0,7,Fully-Furnished,Apartment,9010000
+Hyderabad,1100,1,1,5,1,4,Unfurnished,Apartment,5810000
+Bengaluru,3900,4,3,4,2,4,Fully-Furnished,Penthouse,56120000
+Mangalore,2100,1,1,4,2,12,Semi-Furnished,Apartment,10310000
+Hubli,4100,3,3,17,3,2,Unfurnished,Villa,20270000
+Bengaluru,4250,4,5,2,2,20,Semi-Furnished,Penthouse,48830000
+Bengaluru,1750,2,2,3,2,1,Fully-Furnished,Independent House,17980000
+Shivamogga,3800,4,3,10,2,25,Unfurnished,Penthouse,18130000
+Mysore,1650,3,4,16,1,1,Semi-Furnished,Independent House,7080000
+Mangalore,1150,3,4,6,0,3,Semi-Furnished,Independent House,6420000
+Mysore,4500,4,5,8,3,3,Semi-Furnished,Villa,29830000
+Mangalore,2150,2,2,20,2,4,Fully-Furnished,Apartment,9330000
+Hyderabad,1800,4,5,3,2,2,Fully-Furnished,Independent House,14720000
+Hubli,1000,3,2,9,1,5,Fully-Furnished,Apartment,3560000
+Chennai,1100,1,1,8,0,6,Fully-Furnished,Apartment,7560000
+Pune,2150,3,2,14,1,10,Fully-Furnished,Apartment,13600000
+Shivamogga,2250,5,4,14,3,15,Fully-Furnished,Penthouse,12300000
+Mangalore,950,2,3,7,0,5,Unfurnished,Apartment,4270000
+Mangalore,1600,2,1,15,1,3,Semi-Furnished,Independent House,8160000
+Hubli,1050,4,3,1,0,14,Semi-Furnished,Apartment,3880000
+Hubli,2200,6,7,12,3,1,Unfurnished,Villa,11310000
+Mysore,1650,3,2,15,2,13,Semi-Furnished,Apartment,6680000
+Hubli,1000,2,3,10,1,5,Semi-Furnished,Apartment,3170000
+Hubli,3000,4,5,5,1,2,Fully-Furnished,Independent House,13920000
+Bengaluru,1650,1,1,14,2,6,Semi-Furnished,Apartment,11040000
+Hyderabad,1750,1,1,9,1,14,Semi-Furnished,Apartment,9930000
+Pune,2050,4,3,2,2,2,Semi-Furnished,Independent House,15660000
+Mysore,1850,3,3,16,2,12,Unfurnished,Apartment,7370000
+Chennai,1750,2,2,12,1,15,Unfurnished,Apartment,8780000
+Mysore,1400,2,1,4,1,1,Semi-Furnished,Independent House,7260000
+Chennai,2150,3,3,0,1,7,Semi-Furnished,Apartment,15480000
+Hubli,2350,3,4,11,1,2,Fully-Furnished,Independent House,11340000
+Hyderabad,1600,4,3,19,1,1,Fully-Furnished,Independent House,11670000
+Hyderabad,900,1,1,5,0,4,Fully-Furnished,Apartment,5230000
+Bengaluru,1450,2,1,6,1,6,Fully-Furnished,Apartment,9590000
+Hubli,4600,6,7,5,3,2,Fully-Furnished,Villa,29700000
+Bengaluru,1300,3,3,4,0,1,Fully-Furnished,Independent House,12600000
+Hyderabad,2850,4,4,20,2,1,Unfurnished,Independent House,14240000
+Mangalore,2050,2,1,4,1,6,Unfurnished,Apartment,9150000
+Chennai,1450,2,3,13,1,9,Semi-Furnished,Apartment,8190000
+Chennai,2100,2,3,2,1,3,Fully-Furnished,Apartment,16610000
+Pune,2100,3,4,3,2,3,Semi-Furnished,Independent House,16230000
+Chennai,3000,5,4,10,2,2,Semi-Furnished,Villa,25630000
+Shivamogga,1250,2,1,10,1,2,Semi-Furnished,Apartment,4820000
+Shivamogga,1150,3,4,8,0,3,Fully-Furnished,Independent House,5280000
+Shivamogga,4750,6,7,8,2,2,Fully-Furnished,Villa,33480000
+Bengaluru,700,1,1,12,0,14,Unfurnished,Apartment,3750000
+Bengaluru,1750,1,1,3,2,14,Unfurnished,Apartment,12130000
+Hyderabad,4500,4,5,4,3,3,Unfurnished,Villa,42730000
+Shivamogga,2050,3,2,13,1,3,Semi-Furnished,Apartment,6450000
+Pune,1950,1,1,5,2,2,Semi-Furnished,Apartment,12900000
+Bengaluru,2050,2,1,4,1,1,Semi-Furnished,Independent House,18080000
+Mysore,2650,4,4,2,2,2,Fully-Furnished,Villa,21390000
+Mangalore,2650,3,2,6,2,1,Semi-Furnished,Independent House,13310000
+Mangalore,2800,4,3,21,3,3,Semi-Furnished,Villa,16030000
+Hyderabad,1750,3,4,12,1,1,Fully-Furnished,Apartment,10970000
+Mangalore,3300,4,3,6,3,6,Fully-Furnished,Penthouse,28950000
+Chennai,2250,3,4,11,2,3,Semi-Furnished,Apartment,14050000
+Pune,2950,3,4,3,2,1,Unfurnished,Independent House,21020000
+Bengaluru,1250,2,2,9,0,8,Fully-Furnished,Apartment,9210000
+Pune,2050,3,3,12,2,2,Fully-Furnished,Independent House,15690000
+Mangalore,4700,6,5,7,3,3,Semi-Furnished,Villa,33760000
+Mysore,4500,4,5,13,2,25,Semi-Furnished,Penthouse,30910000
+Bengaluru,1950,2,2,7,2,1,Fully-Furnished,Apartment,14450000
+Hubli,950,2,2,3,0,3,Fully-Furnished,Apartment,3860000
+Shivamogga,1250,3,4,12,0,15,Semi-Furnished,Apartment,4710000
+Mangalore,2250,4,4,13,2,2,Semi-Furnished,Villa,16690000
+Pune,2200,3,3,11,1,1,Fully-Furnished,Independent House,16030000
+Hyderabad,2050,3,4,13,1,11,Unfurnished,Apartment,9480000
+Mangalore,800,1,2,4,0,5,Semi-Furnished,Apartment,3710000
+Shivamogga,2300,2,1,7,1,8,Unfurnished,Apartment,7430000
+Pune,2000,4,3,10,3,3,Semi-Furnished,Villa,16790000
+Pune,700,1,1,13,0,10,Semi-Furnished,Apartment,4140000
+Hyderabad,4900,3,2,21,3,3,Unfurnished,Villa,30940000
+Hubli,2050,4,4,7,2,5,Unfurnished,Apartment,6070000
+Hyderabad,1650,2,2,7,2,13,Unfurnished,Apartment,8880000
+Hyderabad,1400,2,3,1,1,6,Fully-Furnished,Apartment,8920000
+Mangalore,1550,2,3,3,2,7,Semi-Furnished,Apartment,7340000
+Mangalore,4700,6,7,8,2,2,Semi-Furnished,Villa,30330000
+Bengaluru,2350,1,1,18,2,7,Semi-Furnished,Apartment,13510000
+Hubli,2650,2,2,20,1,3,Semi-Furnished,Independent House,10870000
+Mangalore,1200,4,4,4,1,2,Fully-Furnished,Independent House,7780000
+Shivamogga,3000,3,3,0,1,1,Semi-Furnished,Independent House,14350000
+Chennai,3100,3,2,4,1,3,Semi-Furnished,Independent House,21790000
+Chennai,2400,3,4,7,1,2,Semi-Furnished,Independent House,17570000
+Mysore,1900,2,3,12,2,5,Semi-Furnished,Apartment,7340000
+Bengaluru,2250,3,2,4,2,2,Semi-Furnished,Independent House,20430000
+Chennai,1700,2,3,6,2,7,Unfurnished,Apartment,10240000
+Chennai,3150,4,4,10,2,7,Semi-Furnished,Penthouse,29610000
+Hubli,900,4,4,9,1,13,Unfurnished,Apartment,2820000
+Hyderabad,3850,4,5,9,3,1,Semi-Furnished,Villa,34980000
+Chennai,2150,3,3,0,2,13,Semi-Furnished,Apartment,15310000
+Bengaluru,1750,3,3,4,1,10,Unfurnished,Apartment,10610000
+Bengaluru,2600,2,2,10,1,3,Fully-Furnished,Independent House,22030000
+Hyderabad,1700,4,4,9,1,14,Unfurnished,Apartment,9270000
+Mangalore,2250,2,2,3,1,15,Unfurnished,Apartment,9000000
+Mangalore,2000,3,2,21,1,3,Semi-Furnished,Independent House,10600000
+Mangalore,2300,1,2,1,2,14,Fully-Furnished,Apartment,14560000
+Bengaluru,4850,6,5,12,2,2,Semi-Furnished,Villa,51400000
+Pune,4150,3,3,7,3,2,Unfurnished,Villa,33740000
+Bengaluru,1850,3,2,18,2,1,Semi-Furnished,Independent House,12670000
+Bengaluru,1850,2,2,6,2,6,Semi-Furnished,Apartment,13940000
+Shivamogga,2400,4,3,4,3,3,Semi-Furnished,Villa,14310000
+Mysore,1700,4,5,5,1,1,Fully-Furnished,Independent House,9540000
+Mangalore,1000,2,1,10,1,6,Fully-Furnished,Apartment,5030000
+Pune,2200,2,3,3,2,9,Semi-Furnished,Apartment,15030000
+Mysore,3400,5,5,1,2,2,Unfurnished,Villa,20080000
+Hubli,2600,2,3,4,2,2,Fully-Furnished,Independent House,14370000
+Mangalore,1850,2,2,10,2,3,Unfurnished,Independent House,8800000
+Bengaluru,2300,4,3,5,2,24,Unfurnished,Penthouse,22490000
+Mysore,1700,3,3,3,1,12,Unfurnished,Apartment,7400000
+Hubli,1000,3,4,8,0,9,Unfurnished,Apartment,3030000
+Mangalore,1400,3,2,3,1,10,Semi-Furnished,Apartment,6120000
+Pune,2300,5,6,4,3,1,Semi-Furnished,Villa,25510000
+Chennai,1750,4,5,5,2,2,Fully-Furnished,Independent House,14030000
+Hubli,1300,3,3,0,1,2,Unfurnished,Independent House,4880000
+Hubli,2150,2,3,12,1,4,Unfurnished,Apartment,6820000
+Hubli,1550,1,2,5,1,10,Fully-Furnished,Apartment,5370000
+Pune,4550,6,7,3,3,3,Fully-Furnished,Villa,58320000
+Hubli,1100,2,2,3,1,12,Semi-Furnished,Apartment,4260000
+Hubli,1300,3,2,13,1,1,Semi-Furnished,Apartment,4200000
+Chennai,2050,4,3,11,3,2,Semi-Furnished,Villa,16320000
+Pune,1600,2,1,10,2,14,Semi-Furnished,Apartment,8780000
+Hyderabad,3050,4,4,19,1,3,Semi-Furnished,Independent House,20980000
+Chennai,2350,3,3,2,1,11,Semi-Furnished,Apartment,14380000
+Hubli,850,1,1,6,1,14,Unfurnished,Apartment,2940000
+Mangalore,2000,3,4,9,2,3,Fully-Furnished,Independent House,13510000
+Mysore,2200,4,4,17,3,3,Unfurnished,Villa,11020000
+Chennai,950,4,4,5,0,3,Unfurnished,Apartment,5570000
+Chennai,4450,3,4,6,3,1,Fully-Furnished,Villa,50570000
+Chennai,1200,1,2,2,0,9,Unfurnished,Apartment,7060000
+Bengaluru,2050,3,2,13,2,2,Semi-Furnished,Independent House,16460000
+Mysore,1250,4,4,8,1,1,Semi-Furnished,Independent House,6310000
+Pune,1000,3,2,5,0,10,Fully-Furnished,Apartment,7490000
+Mangalore,3700,4,5,16,2,1,Unfurnished,Villa,19590000
+Shivamogga,3050,4,3,9,1,2,Semi-Furnished,Independent House,14630000
